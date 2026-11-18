@@ -1,0 +1,1054 @@
+fid,type,edid,model,size,status,reason,mesh
+060054EC,ACTI,aaaSettlementWaterWell,wd/watertank.nif,234x56x234,exclude,already obstacle,
+060022C2,ACTI,aaaSettlementSuppliesStorage,wd/supplystorage.nif,234x56x234,cut,,convert CLUTTER/PROPS/STATIC -> ANIMSTATIC
+06002BE0,ACTI,aaaSettlementPlayerHome,wd/headquarters.nif,234x56x234,exclude,already obstacle,
+06002BD5,ACTI,aaaSettlementPlayerHomeOutDoor,architecture/wasteland/woodshackdooralt.nif,122x22x171,exclude,already obstacle,
+06004C30,ACTI,aaaSettlementBarracks,wd/barracks.nif,234x56x234,exclude,enterable building,
+0602001A,LIGH,aaaSettlementPatrolMarker,clutter/signnv/ncrcfsigns/ncrcfsign03.nif,79x4x140,exclude,type LIGH,
+0602007C,LIGH,aaaWFPreviewPatrolMarkerB,clutter/signnv/ncrcfsigns/ncrcfsign03.nif,79x4x140,exclude,type LIGH,
+0602007D,LIGH,aaaWFPreviewPatrolMarkerC,clutter/signnv/ncrcfsigns/ncrcfsign03.nif,79x4x140,exclude,type LIGH,
+0602007E,LIGH,aaaWFPreviewPatrolMarkerD,clutter/signnv/ncrcfsigns/ncrcfsign03.nif,79x4x140,exclude,type LIGH,
+06020008,ACTI,aaaSettlementMarket,wd/market.nif,234x56x234,exclude,already obstacle,
+060022B7,ACTI,aaaSettlementWoodFence,wd/junkwall.nif,234x56x234,exclude,already obstacle,
+06001C9D,DOOR,aaaSettlementWoodGate,wd/junkgate.nif,234x56x234,exclude,type DOOR,
+060022B9,ACTI,aaaSettlementWoodenPallet,wd/woodenpallet.nif,234x56x234,exclude,walkable surface,
+06001FD6,ACTI,aaaSettlementMetalPallet,wd/metalpallet.nif,234x56x234,exclude,walkable surface,
+06001FD8,ACTI,aaaSettlementWoodStairs,wd/woodenstairs.nif,234x56x234,exclude,walkable surface,
+0600C836,ACTI,aaaSettlementWoodBeam,wd/woodenbeam.nif,234x56x234,exclude,already obstacle,
+060022BD,ACTI,aaaSettlementBarricadeA,wd/barricadea.nif,234x56x234,exclude,already obstacle,
+060022BE,ACTI,aaaSettlementBarricadeB,wd/barricadeb.nif,234x56x234,exclude,already obstacle,
+060022C8,ACTI,aaaSettlementShackA,wd/shacka.nif,234x56x234,exclude,already obstacle,
+060022CB,ACTI,aaaSettlementShackB,wd/shackb.nif,234x56x234,exclude,already obstacle,
+060022CD,ACTI,aaaSettlementShackC,wd/shackc.nif,234x56x234,exclude,already obstacle,
+060022C4,ACTI,aaaSettlementMobileHome,wd/mobilehome.nif,234x56x234,exclude,enterable building,
+060022BB,ACTI,aaaSettlementTable,furniture/table02.nif,92x64x54,exclude,already obstacle,
+06020031,LIGH,aaaSettlementBedrollP,furniture/nv_bedroll_caesar_markers.nif,79x166x12,exclude,type LIGH,
+060096F6,ACTI,aaaSettlementCampfireOff,wd/campfire.nif,234x56x234,cut,,convert STATIC -> ANIMSTATIC
+060072D1,ACTI,aaaSettlementStreetLightOff,wd/streetlight.nif,234x56x234,exclude,already obstacle,
+06003A60,ACTI,aaaSettlementGuardTower,wd/guardtower.nif,234x56x234,exclude,enterable building,
+0600940E,ACTI,aaaSettlementLookoutTower,wd/lookouttower.nif,234x56x234,exclude,enterable building,
+06005853,LIGH,aaaSettlementMountedTurretRef,creatures/sentryturret/sentryturret.nif,76x95x101,exclude,type LIGH,
+0600612A,ACTI,aaaSettlementRaidAlarm,wd/raidalarm.nif,234x56x234,cut,,convert STATIC -> ANIMSTATIC
+06007BA2,ACTI,aaaSettlementSolarGenerator,wd/solargenerator.nif,234x56x234,exclude,already obstacle,
+060069F9,ACTI,aaaSettlementWindmill,architecture/ncr/spinningwindmill.nif,345x262x605,exclude,already obstacle,
+06008488,ACTI,aaaSettlementArmory,wd/armory.nif,234x56x234,exclude,enterable building,
+0601078F,ACTI,aaaSettlementMedicTent,wd/medictent.nif,234x56x234,exclude,enterable building,
+0600AE43,ACTI,aaaSettlementCommArray,wd/commarray.nif,234x56x234,cut,,convert STATIC -> ANIMSTATIC
+0602DFFD,STAT,aaaWFScavTruckPreview,wd/scavengertruck.nif,234x56x234,cut,,convert CLUTTER/STATIC -> ANIMSTATIC
+0600E4F4,ACTI,aaaSettlementSecurityCamera,clutter/security/securitycamera01.nif,17x43x34,cut,,vanilla (need BSA)
+06007E91,LIGH,aaaSettlementStationaryGuardMarker,characters/_male/m01_vaultsuit.nif,114x21x127,exclude,type LIGH,
+0602007F,LIGH,aaaWFPreviewGuardSniper,characters/_male/m01_vaultsuit.nif,114x21x127,exclude,type LIGH,
+06004621,LIGH,aaaSettlementTargetDummy,clutter/targetsandwalls/mutanttarget02.nif,122x54x217,exclude,type LIGH,
+0602008D,ACTI,aaaWFFishInABag,wastelandforts/props/fishinabag.nif,37x57x60,cut,,convert STATIC -> ANIMSTATIC
+06021ACC,ACTI,aaaWFPropClassicGrillCrafting01,clutter/classicclutter/classicgrillv1.nif,169x186x148,cut,,convert STATIC -> ANIMSTATIC
+06021ACE,ACTI,aaaWFPropClassicFirePitCrafting01,clutter/classicclutter/classicfirepit.nif,144x144x23,exclude,walkable surface,
+06021AD0,ACTI,aaaWFPropClassicGrillCrafting02,clutter/classicclutter/classicgrillv2.nif,125x126x99,cut,,convert STATIC -> ANIMSTATIC
+06021AD2,CONT,aaaWFPropClassicNukaColaFridge,clutter/classicclutter/classiccolafridge.nif,140x107x150,cut,,convert STATIC -> ANIMSTATIC
+06021AD4,CONT,aaaWFPropClassicMilitaryBox,clutter/classicclutter/classicmilitarybox.nif,62x76x64,cut,,convert STATIC -> ANIMSTATIC
+06021AD6,CONT,aaaWFPropClassicNukaColaMachineRusty,clutter/classicclutter/classicnukacolamachinerusty.nif,108x68x150,cut,,convert STATIC -> ANIMSTATIC
+06021AD8,CONT,aaaWFPropClassicNukaColaMachineClean,clutter/classicclutter/classicnukacolamachine.nif,108x68x150,cut,,convert STATIC -> ANIMSTATIC
+06021ADA,CONT,aaaWFPropClassicMailbox,clutter/classicclutter/classicmailbox.nif,51x52x76,cut,,convert STATIC -> ANIMSTATIC
+06021ADC,STAT,aaaWFPropCoffinDisplayMale,clutter/classicclutter/coffindisplaym.nif,136x52x32,cut,,convert STATIC -> ANIMSTATIC
+06021ADE,STAT,aaaWFPropIguanaBitsStand,architecture/classicarchitecture/theiguanastand.nif,124x246x152,cut,,convert STATIC -> ANIMSTATIC
+06021AE0,STAT,aaaWFPropClassicStopLight,architecture/classicarchitecture/classicstoplight.nif,108x100x325,cut,,convert STATIC -> ANIMSTATIC
+06021AE2,STAT,aaaWFPropClassicStreetDomeLampOff,architecture/classicarchitecture/classicstreetdomelampoff.nif,211x82x494,cut,,convert STATIC -> ANIMSTATIC
+06021AE4,STAT,aaaWFPropClassicStreetDomeLampOn,architecture/classicarchitecture/classicstreetdomelampon.nif,211x82x494,cut,,convert STATIC -> ANIMSTATIC
+06021AE6,STAT,aaaWFPropClassicWallMonitors,dungeons/classicterminals/classicwallmonitor.nif,62x206x85,cut,,convert STATIC -> ANIMSTATIC
+06021AE8,STAT,aaaWFPropFarmerWoodenWheelBarrow,clutter/classicclutter/farmerswoodenwheelbarrow.nif,46x143x76,cut,,convert STATIC -> ANIMSTATIC
+06021AEA,STAT,aaaWFPropJunkWall1,clutter/classicclutter/junkwall1.nif,552x200x297,cut,,convert STATIC -> ANIMSTATIC
+06021AEC,STAT,aaaWFPropClassicBanner,furniture/classicfurniture/classicbanner.nif,116x9x331,exclude,flat/wall-mounted,
+06021AEE,STAT,aaaWFPropClassicStreetLightV5,architecture/classicarchitecture/classiclamppostv5.nif,51x50x246,cut,,convert STATIC -> ANIMSTATIC
+06021AF0,STAT,aaaWFPropClassicPoseidonGasStationSign,architecture/classicarchitecture/classicposeidongassign.nif,364x142x675,exclude,flat/wall-mounted,
+06021AF2,STAT,aaaWFPropClassicPoolTable,clutter/classicclutter/classicpooltable.nif,311x176x58,cut,,convert STATIC -> ANIMSTATIC
+06021AF4,STAT,aaaWFPropClassicSlotMachine01,clutter/classicclutter/classicslot_machine01.nif,38x25x61,exclude,too small,
+06021AF6,STAT,aaaWFPropClassicTruck,vehicles/classicvehicles/classictruck01.nif,760x257x298,cut,,convert STATIC -> ANIMSTATIC
+06021AF8,STAT,aaaWFPropMovieCamera,clutter/classicclutter/classicmoviecamera.nif,78x75x144,cut,,convert STATIC -> ANIMSTATIC
+06021AFA,STAT,aaaWFPropSonOfBobsIguanaBitsStand,architecture/classicarchitecture/sonofbobsiguanastand.nif,246x269x152,cut,,convert STATIC -> ANIMSTATIC
+06021AFC,STAT,aaaWFPropClassicWarRoomTable,dungeons/classicterminals/classicwarroomtable.nif,298x228x84,cut,,convert STATIC -> ANIMSTATIC
+06021AFE,STAT,aaaWFPropClassicBoxedStreetLampOff,architecture/classicarchitecture/classicboxedstreetlampoff.nif,264x56x490,cut,,convert STATIC -> ANIMSTATIC
+06021B00,STAT,aaaWFPropClassicBoxedStreetLampOn,architecture/classicarchitecture/classicboxedstreetlampon.nif,264x56x490,cut,,convert STATIC -> ANIMSTATIC
+06021B02,STAT,aaaWFPropClassicStreetLightV1,architecture/classicarchitecture/classiclamppostv1.nif,56x56x185,cut,,convert STATIC -> ANIMSTATIC
+06021B04,STAT,aaaWFPropClassicBigOilTank,clutter/classicclutter/bigoiltank.nif,262x262x227,cut,,convert STATIC -> ANIMSTATIC
+06021B06,STAT,aaaWFPropClassicFlagPole,clutter/classicclutter/classicflagpole.nif,210x210x1259,exclude,flat/wall-mounted,
+06021B08,STAT,aaaWFPropClassicWaterPump,clutter/classicclutter/classicwaterpump.nif,418x397x226,cut,,convert STATIC -> ANIMSTATIC
+06021B0A,STAT,aaaWFPropClassicCasinoSignV2,architecture/classicarchitecture/classiccasinosignv2.nif,187x36x444,exclude,flat/wall-mounted,
+06021B0C,STAT,aaaWFPropPipeCrossGrave,clutter/classicclutter/pipecrossgrave.nif,62x25x102,cut,,convert STATIC -> ANIMSTATIC
+06021B0E,STAT,aaaWFPropClassicWoodenTable,furniture/classicfurniture/classicwoodentable.nif,82x87x53,cut,,convert STATIC -> ANIMSTATIC
+06021B10,STAT,aaaWFPropClassicWallLampOff,clutter/classicclutter/classicwalllampoff.nif,30x46x62,skip,no collision in mesh,no collision
+06021B12,STAT,aaaWFPropClassicWallLampOn,clutter/classicclutter/classicwalllampon.nif,30x46x62,skip,no collision in mesh,no collision
+06021B14,STAT,aaaWFPropClassicBrahminCartTruckBed,vehicles/classicvehicles/brahmincarttruckbed.nif,366x213x109,cut,,convert STATIC -> ANIMSTATIC
+06021B16,STAT,aaaWFPropClassicFireHydrant,architecture/classicarchitecture/classicfirehydrant.nif,36x39x149,exclude,too small,
+06021B18,STAT,aaaWFPropClassicCasinoSignV1,architecture/classicarchitecture/classiccasinosignv1.nif,458x28x132,exclude,flat/wall-mounted,
+06021B1A,STAT,aaaWFPropClassicStreetLightV4,architecture/classicarchitecture/classicstreetlightv4.nif,44x44x194,cut,,convert STATIC -> ANIMSTATIC
+06021B1C,STAT,aaaWFPropClassicCrapsTable,clutter/classicclutter/classiccrapstable.nif,137x226x83,cut,,convert STATIC -> ANIMSTATIC
+06021B1E,STAT,aaaWFPropClassicSheriffSign,architecture/classicarchitecture/classicsheriffsign.nif,323x42x243,exclude,flat/wall-mounted,
+06021B20,STAT,aaaWFPropClassicAirVent,clutter/classicclutter/classicairvent.nif,158x158x63,cut,,convert STATIC -> ANIMSTATIC
+06021B22,STAT,aaaWFPropClassicEnclaveMap,clutter/classicclutter/classicenclavemap.nif,7x226x115,exclude,flat/wall-mounted,
+06021B24,STAT,aaaWFPropClassicOtherOilTank,clutter/classicclutter/classicotheroiltanks.nif,140x140x373,cut,,convert STATIC -> ANIMSTATIC
+06021B26,STAT,aaaWFPropClassicStreetLightV2,architecture/classicarchitecture/classicstreetlightv2.nif,44x44x208,cut,,convert STATIC -> ANIMSTATIC
+06021B28,STAT,aaaWFPropClassicWallLampNoDomeOff,clutter/classicclutter/classicwalllampnodome.nif,30x58x49,skip,no collision in mesh,no collision
+06021B2A,STAT,aaaWFPropCoffinTable,furniture/classicfurniture/coffintable.nif,64x146x55,cut,,convert STATIC -> ANIMSTATIC
+06021B2C,STAT,aaaWFPropClassicHaybed,clutter/classicclutter/classichaybed.nif,124x153x29,exclude,walkable surface,
+06021B2E,STAT,aaaWFPropClassicShipComputerMonitor,dungeons/classicterminals/classicshipcomputerconsole.nif,134x55x106,cut,,convert STATIC -> ANIMSTATIC
+06021B30,STAT,aaaWFPropClassicGasPump,clutter/classicclutter/classicgaspump.nif,106x50x150,cut,,convert STATIC -> ANIMSTATIC
+06021B32,STAT,aaaWFPropClassicStreetSign,clutter/classicclutter/classicstreetsignpost.nif,41x41x200,exclude,flat/wall-mounted,
+06021B34,STAT,aaaWFPropVaultVentWall02,clutter/classicclutter/classicdiffvaultvent.nif,48x70x51,cut,,convert STATIC -> ANIMSTATIC
+06021B36,STAT,aaaWFPropClassicRoadStreetLightV1,clutter/classicclutter/classicstreetlightv1.nif,16x102x213,cut,,convert STATIC -> ANIMSTATIC
+06021B38,FURN,aaaWFPropClassicStoneBench,furniture/classicfurniture/classicstonebench.nif,100x83x126,exclude,type FURN,
+06021B3A,FURN,aaaWFPropClassicCouchTire,furniture/classicfurniture/classictirecarcouch.nif,146x105x140,exclude,type FURN,
+06021B3C,FURN,aaaWFPropStoneBaseQueenBed,furniture/classicfurniture/classicbed_2.nif,237x246x125,exclude,type FURN,
+06021B3E,FURN,aaaWFPropSimpleWoodenQueenBed,furniture/classicfurniture/classicbed_1.nif,237x170x125,exclude,type FURN,
+06021B40,FURN,aaaWFPropClassicConcreteChair,furniture/classicfurniture/classicconcretechair.nif,113x95x125,exclude,type FURN,
+06021B45,ACTI,aaaWFWorkbench,wastelandforts/props/fortworkbench.nif,147x62x139,cut,,convert STATIC -> ANIMSTATIC
+06022F9A,STAT,aaaWFPXAcUnit,clutter/acunit.nif,68x30x62,cut,,vanilla (need BSA)
+06022F9C,STAT,aaaWFPXVaultAcUnit,dungeons/vault/accessories/vacunit.nif,58x110x71,cut,,vanilla (need BSA)
+06022F9E,STAT,aaaWFPXAirRaidSiren,clutter/airraidalarm01.nif,34x90x400,cut,,vanilla (need BSA)
+06022FA0,STAT,aaaWFPXAircraftServiceCart1,clutter/aircraftservice/aircraftservicecart01.nif,64x64x64,cut,,vanilla (need BSA)
+06022FA2,STAT,aaaWFPXAircraftServiceCart2,clutter/aircraftservice/aircraftservicecart02.nif,64x64x64,cut,,vanilla (need BSA)
+06022FA4,STAT,aaaWFPXAircraftServiceLoader,clutter/aircraftservice/aircraftserviceloader.nif,124x372x235,cut,,vanilla (need BSA)
+06022FA6,STAT,aaaWFPXAnesthesiaMachine,clutter/hospital/anesthesiamachine01.nif,46x46x104,cut,,vanilla (need BSA)
+06022FA8,STAT,aaaWFPXAntHeadOnAPike,clutter/antheadonpike.nif,45x46x132,cut,,vanilla (need BSA)
+06022FAA,STAT,aaaWFPXHeadOnAPike1,architecture/thefort/nv_headpikemale01.nif,13x18x193,exclude,too small,
+06022FAC,STAT,aaaWFPXHeadOnAPike2,architecture/thefort/nv_headpikeold01.nif,13x18x193,exclude,too small,
+06022FAE,STAT,aaaWFPXAntiAircraftGun,architecture/hooverdam/nv_hooverdam_aagun.nif,4127x4095x2955,cut,,vanilla (need BSA)
+06022FB0,STAT,aaaWFPXAntiqueEyebot,clutter/robotsantique/eyebot_antique.nif,86x68x155,cut,,vanilla (need BSA)
+06022FB2,STAT,aaaWFPXAntiqueMisterHandy,clutter/robotsantique/mrhandy_antique.nif,84x83x109,cut,,vanilla (need BSA)
+06022FB4,STAT,aaaWFPXAntiqueSentryBot,clutter/robotsantique/sentry_antique.nif,120x115x121,cut,,vanilla (need BSA)
+06022FB6,STAT,aaaWFPXAntiqueProtectron,clutter/robotsantique/protectron_antique.nif,142x168x101,cut,,vanilla (need BSA)
+06022FB8,STAT,aaaWFPXAnvil,clutter/junk/anvil01.nif,95x50x58,cut,,vanilla (need BSA)
+06022FBA,STAT,aaaWFPXArmGore,gore/gorearmgore01.nif,41x14x6,cut,,vanilla (need BSA)
+06022FBC,STAT,aaaWFPXAssortedPapers1,clutter/office/assortedpapers01.nif,26x31x0,exclude,too small,
+06022FBE,STAT,aaaWFPXAssortedPapers2,clutter/office/assortedpapers03.nif,35x36x0,exclude,too small,
+06022FC0,STAT,aaaWFPXAssortedPapers3,clutter/office/assortedpapers06.nif,61x61x0,cut,,vanilla (need BSA)
+06022FC2,STAT,aaaWFPXMkIAutoDoc,clutter/autodoc.nif,103x120x136,cut,,vanilla (need BSA)
+06022FC4,STAT,aaaWFPXBabyCarriage1,clutter/babycarriage/babycarriageclean01.nif,52x94x70,cut,,vanilla (need BSA)
+06022FC6,STAT,aaaWFPXBabyCarriage2,clutter/babycarriage/babycarriagedirty01.nif,52x94x70,cut,,vanilla (need BSA)
+06022FC8,STAT,aaaWFPXBabyCrib,furniture/vault/babycrib01.nif,118x63x83,cut,,vanilla (need BSA)
+06022FCA,STAT,aaaWFPXBarTap1,clutter/bartaps/bartaps01.nif,26x11x36,exclude,too small,
+06022FCC,STAT,aaaWFPXBarTap2,clutter/bartaps/bartaps03.nif,30x14x64,exclude,too small,
+06022FCE,STAT,aaaWFPXBarberPole,architecture/urban/signage/signbarber01.nif,42x56x138,exclude,flat/wall-mounted,
+06022FD0,STAT,aaaWFPXBarn,clutter/farm/barn01.nif,840x1586x807,cut,,vanilla (need BSA)
+06022FD2,STAT,aaaWFPXBarrel1,clutter/barrel03static.nif,63x61x90,cut,,vanilla (need BSA)
+06022FD4,STAT,aaaWFPXBarrel2,dlc03/clutter/barrel/dlc03barrel01.nif,64x62x100,cut,,vanilla (need BSA)
+06022FD6,STAT,aaaWFPXBarrelPile1,clutter/barrelpile01.nif,824x424x134,cut,,vanilla (need BSA)
+06022FD8,STAT,aaaWFPXBarrelPile2,clutter/barrelpile02.nif,526x574x165,cut,,vanilla (need BSA)
+06022FDA,STAT,aaaWFPXBarrelPile3,clutter/nv_barrelpile03.nif,363x396x133,cut,,vanilla (need BSA)
+06022FDC,STAT,aaaWFPXBathroomStallDivider1,clutter/bathroom/bathroomstalldivider03.nif,16x71x142,cut,,vanilla (need BSA)
+06022FDE,STAT,aaaWFPXBathroomStallDivider2,dungeons/vault/accessories/vstalldivider.nif,2x80x178,exclude,flat/wall-mounted,
+06022FE0,STAT,aaaWFPXBathtub1,clutter/bathroom/bathtub01.nif,58x138x71,cut,,vanilla (need BSA)
+06022FE2,STAT,aaaWFPXBathtub2,clutter/bathroom/bathtubclean01.nif,58x138x71,cut,,vanilla (need BSA)
+06022FE4,STAT,aaaWFPXLuxuryBathtub,clutter/bathroom/nv_ultraluxbathtub.nif,58x138x71,cut,,vanilla (need BSA)
+06022FE6,STAT,aaaWFPXBedFrame1,furniture/bedframequeen01static.nif,185x164x58,cut,,vanilla (need BSA)
+06022FE8,STAT,aaaWFPXBedFrame2,furniture/bedframe01static.nif,86x160x58,cut,,vanilla (need BSA)
+06022FEA,FURN,aaaWFPXBunkBed,furniture/bedframe01bunk.nif,123x161x125,exclude,type FURN,
+06022FEC,STAT,aaaWFPXBench1,furniture/bench01.nif,56x152x38,cut,,vanilla (need BSA)
+06022FEE,STAT,aaaWFPXBench2,furniture/benchsuburban01.nif,124x43x66,cut,,vanilla (need BSA)
+06022FF0,STAT,aaaWFPXMuseumBench,furniture/benchmuseumstatic01.nif,200x64x31,cut,,vanilla (need BSA)
+06022FF2,STAT,aaaWFPXBirthdayBanner,clutter/bdayclutter/birthdaybanner01.nif,170x4x62,exclude,flat/wall-mounted,
+06022FF4,STAT,aaaWFPXBitterSpringsRefugeeTent,architecture/bittersprings/nv_bs-refugee-tent.nif,635x382x233,exclude,enterable building,
+06022FF6,ACTI,aaaWFPXBlackjackTable,clutter/casino/cardtable01.nif,101x175x73,cut,,vanilla (need BSA)
+06022FF8,STAT,aaaWFPXBloodySkull,clutter/raiderdressing/skullbloody.nif,10x14x17,exclude,flat/wall-mounted,
+06022FFA,STAT,aaaWFPXSurgicalTray,clutter/hospital/surgicaltray02.nif,36x24x0,exclude,too small,
+06022FFC,STAT,aaaWFPXBloodySurgicalTray,clutter/hospital/surgicaltraybloodystatic01.nif,36x26x2,exclude,flat/wall-mounted,
+06022FFE,STAT,aaaWFPXBoat1,vehicles/boat02a.nif,286x612x214,cut,,vanilla (need BSA)
+06023000,STAT,aaaWFPXBoat2,vehicles/boat02b.nif,286x612x214,cut,,vanilla (need BSA)
+06023002,STAT,aaaWFPXBoat3,vehicles/boat02c.nif,286x612x214,cut,,vanilla (need BSA)
+06023004,STAT,aaaWFPXBoat4,vehicles/boat02d.nif,286x612x214,cut,,vanilla (need BSA)
+06023006,STAT,aaaWFPXWreckedBoat,dlc04/vehicles/dlc04boatwrecked01.nif,668x1556x927,cut,,vanilla (need BSA)
+06023008,STAT,aaaWFPXBoxcarWall1,architecture/barrier/boxcarwall02.nif,279x804x591,cut,,vanilla (need BSA)
+0602300A,STAT,aaaWFPXBoxcarWall2,architecture/barrier/boxcarwall03.nif,120x938x467,cut,,vanilla (need BSA)
+0602300C,STAT,aaaWFPXBrahminRibcage,clutter/skeleton/brahminribcage.nif,36x53x35,cut,,vanilla (need BSA)
+0602300E,STAT,aaaWFPXBranchPile1,landscape/trees/treewastelandbranchpile01.nif,390x312x126,cut,,vanilla (need BSA)
+06023010,STAT,aaaWFPXBranchPile2,landscape/trees/treewastelandbranchpile02.nif,390x312x126,cut,,vanilla (need BSA)
+06023012,STAT,aaaWFPXBulletinBoard1,clutter/office/bulletinboard03.nif,94x4x63,exclude,flat/wall-mounted,
+06023014,STAT,aaaWFPXBulletinBoard2,clutter/office/bulletinboard01.nif,104x4x80,exclude,flat/wall-mounted,
+06023016,STAT,aaaWFPXBrokenSink,clutter/bathroom/drinksinkbrokestatic04.nif,31x22x15,exclude,too small,
+06023018,STAT,aaaWFPXBrokenToilet,clutter/bathroom/drinktoiletbrokestatic04.nif,38x42x25,cut,,vanilla (need BSA)
+0602301A,STAT,aaaWFPXCableJunctionBox,clutter/cablejunctionbox01.nif,57x13x110,cut,,vanilla (need BSA)
+0602301C,STAT,aaaWFPXCaesarSTent,architecture/legion/cl_caesarstent01.nif,919x840x403,exclude,enterable building,
+0602301E,STAT,aaaWFPXCafeteriaTray,clutter/cafeteria/cafeteriatray01.nif,58x42x2,cut,,vanilla (need BSA)
+06023020,STAT,aaaWFPXCagedSkeleton,architecture/paradisefalls/paradisedressing/cagedskeleton01.nif,78x78x296,cut,,vanilla (need BSA)
+06023022,STAT,aaaWFPXCamper,vehicles/camper01.nif,498x248x229,cut,,vanilla (need BSA)
+06023024,STAT,aaaWFPXTruckTrailer1,vehicles/trucktrailer06.nif,1004x271x319,exclude,enterable building,
+06023026,STAT,aaaWFPXTruckTrailer2,vehicles/trucktrailer07.nif,467x256x269,exclude,enterable building,
+06023028,STAT,aaaWFPXCanvasTent1,architecture/wasteland/tents/tentsidealtnv02.nif,209x327x326,exclude,enterable building,
+0602302A,STAT,aaaWFPXCanvasTent2,architecture/wasteland/tents/tentsidealtnv03.nif,209x327x326,exclude,enterable building,
+0602302C,STAT,aaaWFPXCarStack1,vehicles/wreckage/carstack01.nif,554x209x182,cut,,vanilla (need BSA)
+0602302E,STAT,aaaWFPXCarStack2,vehicles/wreckage/carstack02.nif,565x222x194,cut,,vanilla (need BSA)
+06023030,STAT,aaaWFPXCarStack3,vehicles/wreckage/carstack03.nif,581x220x186,cut,,vanilla (need BSA)
+06023032,STAT,aaaWFPXCarStack4,vehicles/wreckage/carstack04.nif,551x226x183,cut,,vanilla (need BSA)
+06023034,STAT,aaaWFPXCauldron,dlcpitt/clutter/cauldron/cauldronnv.nif,146x200x199,cut,,vanilla (need BSA)
+06023036,STAT,aaaWFPXCeilingFan,clutter/nv_fan.nif,195x220x41,cut,,vanilla (need BSA)
+06023038,STAT,aaaWFPXStripPlanter1,architecture/strip/nvstripplanter/nvstripplanter05.nif,377x284x116,cut,,vanilla (need BSA)
+0602303A,STAT,aaaWFPXStripPlanter2,architecture/strip/nvstripplanter/nvstripplanter06.nif,349x295x116,cut,,vanilla (need BSA)
+0602303C,STAT,aaaWFPXStripPlanter3,architecture/strip/nvstripplanter/nvstripplanter07.nif,349x309x116,cut,,vanilla (need BSA)
+0602303E,STAT,aaaWFPXChemTubeRack,clutter/lab/chemtuberack01.nif,12x4x9,exclude,flat/wall-mounted,
+06023040,STAT,aaaWFPXChemistrySet,clutter/lab/chemistryexperiment01.nif,64x64x64,cut,,vanilla (need BSA)
+06023042,STAT,aaaWFPXChristmasLights1,dungeons/caves/lamplight/xmaslightslng01.nif,1024x29x91,cut,,vanilla (need BSA)
+06023044,STAT,aaaWFPXChristmasLights2,dungeons/caves/lamplight/xmaslightslng02.nif,1024x29x91,cut,,vanilla (need BSA)
+06023046,STAT,aaaWFPXChildArt1,architecture/urban/signage/childart01.nif,80x72x0,exclude,flat/wall-mounted,
+06023048,STAT,aaaWFPXChildArt2,architecture/urban/signage/childart02.nif,106x58x0,exclude,flat/wall-mounted,
+0602304A,STAT,aaaWFPXChildArt3,architecture/urban/signage/childart03.nif,110x0x90,exclude,flat/wall-mounted,
+0602304C,STAT,aaaWFPXChildArt4,architecture/urban/signage/childart04.nif,96x0x68,exclude,flat/wall-mounted,
+0602304E,STAT,aaaWFPXCleanTelevision,clutter/tv02/tv02.nif,49x30x38,cut,,vanilla (need BSA)
+06023050,STAT,aaaWFPXTrainStationClock,architecture/trainstation/trainstationinterior/nv_trainstation_clock.nif,44x2x44,exclude,flat/wall-mounted,
+06023052,STAT,aaaWFPXStarburstClock,clutter/tranquilitylane/starburstclockdirty01.nif,64x64x64,cut,,vanilla (need BSA)
+06023054,STAT,aaaWFPXNukaColaClock,clutter/questitems/nukaclock01.nif,49x60x6,cut,,vanilla (need BSA)
+06023056,STAT,aaaWFPXClock,clutter/office/clock01.nif,4x40x40,exclude,flat/wall-mounted,
+06023058,STAT,aaaWFPXCoffeeBrewer,clutter/office/coffeemaker01.nif,42x18x44,cut,,vanilla (need BSA)
+0602305A,STAT,aaaWFPXCoffin,nvdlc03/clutter/nvdlc03coffin01.nif,158x70x52,cut,,vanilla (need BSA)
+0602305C,STAT,aaaWFPXOpenGrave,clutter/coffin/nv_opengrave.nif,730x723x94,cut,,vanilla (need BSA)
+0602305E,CONT,aaaWFPXBurialMound1,clutter/coffin/burialmound01.nif,328x173x106,cut,,vanilla (need BSA)
+06023060,CONT,aaaWFPXBurialMound2,clutter/coffin/burialmound02.nif,328x173x102,cut,,vanilla (need BSA)
+06023062,TERM,aaaWFPXCompanionDismissalTerminal,dungeons/vault/accessories/vcontrolpanel04.nif,26x58x120,cut,,vanilla (need BSA)
+06023064,STAT,aaaWFPXComputerParts1,clutter/computerparts/computerpart02.nif,48x56x16,cut,,vanilla (need BSA)
+06023066,STAT,aaaWFPXComputerParts2,clutter/computerparts/computerpart04.nif,42x56x26,cut,,vanilla (need BSA)
+06023068,STAT,aaaWFPXComputerParts3,clutter/computerparts/computerpart06.nif,52x56x27,cut,,vanilla (need BSA)
+0602306A,STAT,aaaWFPXComputerRack1,clutter/consoles/computerrack01.nif,56x58x175,cut,,vanilla (need BSA)
+0602306C,STAT,aaaWFPXComputerRack2,dungeons/vaultruined/accessories/vcomputerrackr01.nif,56x58x175,cut,,vanilla (need BSA)
+0602306E,STAT,aaaWFPXCazadorNest1,scol/scolcazadornest01a.nif,322x253x239,cut,,vanilla (need BSA)
+06023070,STAT,aaaWFPXCazadorNest2,scol/scolcazadornest02a.nif,322x284x225,cut,,vanilla (need BSA)
+06023072,STAT,aaaWFPXCazadorNest3,scol/scolcazadornest03a.nif,238x281x266,cut,,vanilla (need BSA)
+06023074,STAT,aaaWFPXCoffeeUrn,clutter/junk/coffeeurn01.nif,36x40x64,cut,,vanilla (need BSA)
+06023076,STAT,aaaWFPXVaultConsolePanel1,dungeons/vault/accessories/vcontrolpanel01.nif,36x14x73,exclude,too small,
+06023078,STAT,aaaWFPXVaultConsolePanel2,dungeons/vaultruined/accessories/vcontrolpanelr01.nif,36x14x73,exclude,too small,
+0602307A,STAT,aaaWFPXCrane,architecture/wasteland/cranestatic01.nif,4027x1876x3213,cut,,vanilla (need BSA)
+0602307C,STAT,aaaWFPXCrucifix1,architecture/thefort/nv_crucifix.nif,142x84x274,cut,,vanilla (need BSA)
+0602307E,STAT,aaaWFPXCrucifix2,architecture/thefort/nv_crucifix-skeleton.nif,142x109x274,cut,,vanilla (need BSA)
+06023080,STAT,aaaWFPXCrusherBars,architecture/quarryjunction/crusher-crusher-bars.nif,36x156x168,cut,,vanilla (need BSA)
+06023082,STAT,aaaWFPXDancerCage1,clutter/burlesquest/dancercage02.nif,64x64x64,cut,,vanilla (need BSA)
+06023084,STAT,aaaWFPXDancerCage2,clutter/burlesquest/dancercage04.nif,64x64x64,cut,,vanilla (need BSA)
+06023086,STAT,aaaWFPXDeathclawCage,clutter/enclaveencampment/deathclawcage.nif,200x330x186,cut,,vanilla (need BSA)
+06023088,STAT,aaaWFPXDirtyTelevision,dlc04/clutter/dlc04tv01.nif,49x30x38,cut,,vanilla (need BSA)
+0602308A,STAT,aaaWFPXJacobstownBarricade,architecture/jacobstown/nvjacobstownwallbarricade.nif,308x255x181,cut,,vanilla (need BSA)
+0602308C,STAT,aaaWFPXDoorBarricade1,dlc04/architecture/boardwalk/dlc04boardwalkbarricade01.nif,134x17x82,cut,,vanilla (need BSA)
+0602308E,STAT,aaaWFPXDoorBarricade2,dlc04/architecture/boardwalk/dlc04boardwalkbarricade02.nif,134x24x83,cut,,vanilla (need BSA)
+06023090,STAT,aaaWFPXDoorBarricade3,dlc04/architecture/boardwalk/dlc04boardwalkbarricade03.nif,134x12x86,cut,,vanilla (need BSA)
+06023092,STAT,aaaWFPXEyeOnYouCamera1,clutter/security/securitycamera01.nif,17x43x34,cut,,vanilla (need BSA)
+06023094,STAT,aaaWFPXEyeOnYouCamera2,clutter/security/securitycamera02.nif,14x44x34,cut,,vanilla (need BSA)
+06023096,STAT,aaaWFPXEyeOnYouCamera3,dlc03/clutter/traffic lights/dlc03streetcamera01.nif,49x49x73,cut,,vanilla (need BSA)
+06023098,STAT,aaaWFPXEmergencyLight1,architecture/urban/emergencylighton.nif,28x7x27,exclude,flat/wall-mounted,
+0602309A,STAT,aaaWFPXEmergencyLight2,architecture/urban/emergencylightoff.nif,28x7x27,exclude,flat/wall-mounted,
+0602309C,STAT,aaaWFPXEmergencyLight3,dungeons/vault/lights/vemergencylightsconce01off.nif,38x38x9,exclude,too small,
+0602309E,STAT,aaaWFPXFireExtinguisher,clutter/fireextinguisher/fewallmount01.nif,18x38x13,exclude,too small,
+060230A0,ACTI,aaaWFPXFireHydrantClean,architecture/urban/streetdressing/firehydrantclean01.nif,36x38x152,exclude,too small,
+060230A2,STAT,aaaWFPXGomorrahFirePit,dungeons/nvgamorrah/nvgomorrahfirepitceiling.nif,328x310x227,cut,,vanilla (need BSA)
+060230A4,STAT,aaaWFPXFlagpole1,architecture/urban/streetdressing/flagpole01.nif,97x98x815,exclude,flat/wall-mounted,
+060230A6,STAT,aaaWFPXFlagpole2,clutter/junk/flagpole01.nif,90x88x1282,exclude,flat/wall-mounted,
+060230A8,STAT,aaaWFPXFloodlight,clutter/floodlight/floodlight01.nif,90x101x161,cut,,vanilla (need BSA)
+060230AA,STAT,aaaWFPXFloorBuffer,clutter/floorbuffer/floorbuffer01.nif,92x152x96,exclude,walkable surface,
+060230AC,STAT,aaaWFPXDock1,architecture/wasteland/docks/potdockbg1way01.nif,255x256x256,cut,,vanilla (need BSA)
+060230AE,STAT,aaaWFPXDock2,architecture/wasteland/docks/potdockbgendcap01.nif,283x298x298,cut,,vanilla (need BSA)
+060230B0,STAT,aaaWFPXDock3,architecture/wasteland/docks/potdockpylon01.nif,142x142x335,cut,,vanilla (need BSA)
+060230B2,STAT,aaaWFPXBoardwalk,dlc04/architecture/boardwalk/dlc04boardwalk02.nif,1061x512x491,cut,,vanilla (need BSA)
+060230B4,STAT,aaaWFPXFloorLamp1,clutter/lights/floorlampoff.nif,39x39x160,exclude,too small,
+060230B6,STAT,aaaWFPXFloorLamp2,nvdlc01/clutter/lights/nvdlc01floorlamp.nif,39x39x160,exclude,too small,
+060230B8,STAT,aaaWFPXFusionGenerator,clutter/fusiongenerator/fusiongenerator01.nif,52x68x62,cut,,vanilla (need BSA)
+060230BA,STAT,aaaWFPXGenerator,clutter/electricbox/generator01.nif,42x56x43,cut,,vanilla (need BSA)
+060230BC,STAT,aaaWFPXProjector,clutter/projector/projectoroff01.nif,56x66x47,cut,,vanilla (need BSA)
+060230BE,STAT,aaaWFPXGenericConsole1,clutter/consoles/console01.nif,46x126x89,cut,,vanilla (need BSA)
+060230C0,STAT,aaaWFPXGenericConsole2,clutter/consoles/console02.nif,176x116x124,cut,,vanilla (need BSA)
+060230C2,STAT,aaaWFPXGenericConsoleStack1,nvdlc42/clutter/consoles/genericconsolestack01noanim.nif,64x66x194,cut,,vanilla (need BSA)
+060230C4,STAT,aaaWFPXGenericConsoleStack2,nvdlc42/clutter/consoles/genericconsolestack02noanim.nif,65x66x194,cut,,vanilla (need BSA)
+060230C6,STAT,aaaWFPXWallConsole,dungeons/vault/accessories/vwallconsole01.nif,71x307x207,cut,,vanilla (need BSA)
+060230C8,STAT,aaaWFPXElectricalSwitch1,clutter/genelecswitch02.nif,12x9x24,exclude,too small,
+060230CA,STAT,aaaWFPXElectricalSwitch2,clutter/genelecswitch01.nif,18x9x30,exclude,too small,
+060230CC,STAT,aaaWFPXGrainSilo1,clutter/farm/grainsilo01.nif,504x506x1047,cut,,vanilla (need BSA)
+060230CE,STAT,aaaWFPXGrainSilo2,clutter/farm/grainsilobroken.nif,522x506x297,cut,,vanilla (need BSA)
+060230D0,STAT,aaaWFPXBbqGrill,clutter/grill/grillaged.nif,58x56x71,cut,,vanilla (need BSA)
+060230D2,STAT,aaaWFPXGrindingWheel,architecture/thefort/nv_grinding_wheel_all.nif,64x96x80,cut,,vanilla (need BSA)
+060230D4,STAT,aaaWFPXGrinderWorkbench,architecture/thefort/nv_grinder-workbench.nif,80x50x48,cut,,vanilla (need BSA)
+060230D6,STAT,aaaWFPXGroceryDisplayCounter1,clutter/grocery/grocerydisplaycountercube01.nif,104x104x76,cut,,vanilla (need BSA)
+060230D8,STAT,aaaWFPXGroceryDisplayCounter2,clutter/grocery/grocerydisplaycounterhalfr01.nif,128x82x75,cut,,vanilla (need BSA)
+060230DA,CONT,aaaWFPXCashRegister,clutter/grocery/cashregister01.nif,28x28x33,exclude,too small,
+060230DC,STAT,aaaWFPXNellisShellHolder,architecture/nellis afb/nvnellisgunbatteryshellholder01.nif,180x200x195,cut,,vanilla (need BSA)
+060230DE,STAT,aaaWFPXHowitzerShell,architecture/nellis afb/nvnellisgunbatteryshell01.nif,56x56x158,cut,,vanilla (need BSA)
+060230E0,STAT,aaaWFPXGunBatteryControlBox,nvdlc03/architecture/wasteland/nvdlc03gunbatterycontrolbox01.nif,105x215x213,cut,,vanilla (need BSA)
+060230E2,STAT,aaaWFPXGunRunnerKiosk,architecture/wasteland/nv_gunrun_kiosk.nif,311x712x470,cut,,vanilla (need BSA)
+060230E4,STAT,aaaWFPXMuseumKiosk,clutter/museumkiosk/museumkioskoff.nif,42x20x73,cut,,vanilla (need BSA)
+060230E6,STAT,aaaWFPXKnifeKiosk,nvdlc01/clutter/nvdlc01knifekiosk.nif,54x54x79,cut,,vanilla (need BSA)
+060230E8,STAT,aaaWFPXBrokenGurney,clutter/hospital/gurney02broken01.nif,174x91x80,cut,,vanilla (need BSA)
+060230EA,STAT,aaaWFPXGurneyPad,clutter/hospital/gurney01pad01.nif,159x52x1,cut,,vanilla (need BSA)
+060230EC,STAT,aaaWFPXHandDryer,clutter/bathroom/handdrier01.nif,30x28x34,exclude,too small,
+060230EE,STAT,aaaWFPXHandRadio,clutter/handradio/handradio.nif,9x7x29,exclude,flat/wall-mounted,
+060230F0,STAT,aaaWFPXHamRadio1,clutter/hamradio/hamradio02.nif,36x21x16,exclude,too small,
+060230F2,STAT,aaaWFPXHamRadio2,clutter/hamradio/hamradio03.nif,16x20x15,exclude,too small,
+060230F4,STAT,aaaWFPXHangingDoll1,dlc04/clutter/dolltrees/dlc04hangingdoll03x256.nif,24x24x297,exclude,too small,
+060230F6,STAT,aaaWFPXHangingDoll2,nvdlc03/clutter/nvdlc03dlc04hangingdoll.nif,34x14x254,exclude,too small,
+060230F8,STAT,aaaWFPXHeliosOneSolarReflector1,architecture/helios_one/nv_heliosone_solarreflectorbrk_01.nif,1192x266x187,cut,,vanilla (need BSA)
+060230FA,STAT,aaaWFPXHeliosOneSolarReflector2,architecture/helios_one/nv_heliosone_solarreflectorbrk_02.nif,1192x266x187,cut,,vanilla (need BSA)
+060230FC,FURN,aaaWFPXGomorrahBed,furniture/gamorrahbed01.nif,229x182x125,exclude,type FURN,
+060230FE,STAT,aaaWFPXGomorrahChain1,clutter/nv_gamorrah/nvgomorrahchain01.nif,288x42x258,cut,,vanilla (need BSA)
+06023100,STAT,aaaWFPXGomorrahChain2,clutter/casino/gomorrahchain.nif,6x8x168,exclude,flat/wall-mounted,
+06023102,STAT,aaaWFPXGomorrahPillows1,clutter/nv_gamorrah/gamorrahpillow03.nif,38x36x9,exclude,too small,
+06023104,STAT,aaaWFPXGomorrahPillows2,clutter/nv_gamorrah/gamorrahpillow04.nif,74x66x16,cut,,vanilla (need BSA)
+06023106,STAT,aaaWFPXGomorrahVase,clutter/nv_gamorrah/nvgomorrahvase.nif,56x56x97,cut,,vanilla (need BSA)
+06023108,STAT,aaaWFPXTenpennyVase,clutter/tenpenny/tenpennyvase01.nif,39x40x60,cut,,vanilla (need BSA)
+0602310A,STAT,aaaWFPXGreatKhanTotem,clutter/signnv/nv_totemkhan.nif,64x64x64,exclude,flat/wall-mounted,
+0602310C,STAT,aaaWFPXWhiteLegsWarTotem,nvdlc02/clutter/nvdlc02_totemwhitelegs/nvdlc02_totemwhitelegs.nif,88x172x79,cut,,vanilla (need BSA)
+0602310E,STAT,aaaWFPXGreatKhanTent1,architecture/generic/nvgreatkhantent01.nif,706x724x302,exclude,enterable building,
+06023110,STAT,aaaWFPXGreatKhanTent2,architecture/generic/nvgreatkhantent02.nif,706x724x296,exclude,enterable building,
+06023112,STAT,aaaWFPXGreatKhanTent3,architecture/generic/nvgreatkhantent03.nif,796x802x302,exclude,enterable building,
+06023114,STAT,aaaWFPXGroceryFreezer,clutter/grocery/groceryfreezer01.nif,180x116x59,cut,,vanilla (need BSA)
+06023116,STAT,aaaWFPXGroceryCheckout,clutter/grocery/grocerycheckout01.nif,340x166x68,cut,,vanilla (need BSA)
+06023118,ACTI,aaaWFPXHoldingTank1,clutter/holdingtanks/holdingtank01.nif,186x186x512,cut,,vanilla (need BSA)
+0602311A,ACTI,aaaWFPXHoldingTank2,clutter/holdingtanks/holdingtank02.nif,186x186x576,cut,,vanilla (need BSA)
+0602311C,ACTI,aaaWFPXHoldingTank3,clutter/holdingtanks/holdingtank04.nif,172x172x512,cut,,vanilla (need BSA)
+0602311E,ACTI,aaaWFPXGoodspringsWaterTank,architecture/goodsprings/nv_watertank.nif,504x290x440,cut,,vanilla (need BSA)
+06023120,STAT,aaaWFPXHowitzer,vehicles/nvnellisartillery/nvnellisartillery.nif,601x1060x335,cut,,vanilla (need BSA)
+06023122,STAT,aaaWFPXHulaGirl,clutter/hulagirl/hulagirl.nif,6x4x15,exclude,flat/wall-mounted,
+06023124,CONT,aaaWFPXHotelDesk,furniture/hotel/hoteldesk.nif,68x34x80,cut,,vanilla (need BSA)
+06023126,STAT,aaaWFPXReceptionDesk1,clutter/office/officereceptiondeskmid01.nif,256x116x77,cut,,vanilla (need BSA)
+06023128,STAT,aaaWFPXReceptionDesk2,clutter/office/officereceptiondeskcurver01.nif,290x266x78,cut,,vanilla (need BSA)
+0602312A,STAT,aaaWFPXHospitalScreen,dungeons/vaultruined/clutter/hospitalscreenr01.nif,165x115x140,cut,,vanilla (need BSA)
+0602312C,STAT,aaaWFPXUltraLuxeWallScreen1,dungeons/nv_casinolo/nv_ultralux/nv_ul_wallscreen02.nif,52x326x258,cut,,vanilla (need BSA)
+0602312E,STAT,aaaWFPXUltraLuxeWallScreen2,dungeons/nv_casinolo/nv_ultralux/nv_ul_wallscreen03.nif,322x55x178,cut,,vanilla (need BSA)
+06023130,STAT,aaaWFPXHotelLamp,furniture/hotel/hotellamp.nif,22x21x38,exclude,too small,
+06023132,STAT,aaaWFPXIvStand,clutter/hospital/ivstand01.nif,40x40x127,cut,,vanilla (need BSA)
+06023134,ACTI,aaaWFPXJukebox,clutter/jukebox/jukeboxdirtynv.nif,86x44x134,cut,,vanilla (need BSA)
+06023136,DOOR,aaaWFPXJailCellDoor,dungeons/office/jail/jaildoor01.nif,8x115x170,exclude,type DOOR,
+06023138,STAT,aaaWFPXJerseyBarricade1,architecture/paradisefalls/parkinglot/jerseybarricade01.nif,44x134x56,cut,,vanilla (need BSA)
+0602313A,STAT,aaaWFPXJerseyBarricade2,architecture/paradisefalls/parkinglot/jerseybarricade03.nif,44x91x56,cut,,vanilla (need BSA)
+0602313C,STAT,aaaWFPXKeyHook,clutter/junk/keyhook.nif,2x2x4,exclude,flat/wall-mounted,
+0602313E,STAT,aaaWFPXLabMachine,clutter/questitems/ms04mutagentank01.nif,84x66x106,cut,,vanilla (need BSA)
+06023140,STAT,aaaWFPXLamplightChandelier,dungeons/caves/lamplight/lamplightchandelieroff.nif,77x69x79,cut,,vanilla (need BSA)
+06023142,STAT,aaaWFPXLargeMainframe,clutter/consoles/mainframeonoff.nif,218x581x185,cut,,vanilla (need BSA)
+06023144,STAT,aaaWFPXMainframe,clutter/consoles/mainframe01off.nif,195x314x185,cut,,vanilla (need BSA)
+06023146,STAT,aaaWFPXSmallMainframe,clutter/consoles/mainframesmall01.nif,195x132x175,cut,,vanilla (need BSA)
+06023148,STAT,aaaWFPXLegionOfficerTent,architecture/legion/cl_officerstent01low.nif,600x596x383,exclude,enterable building,
+0602314A,STAT,aaaWFPXLegionSoldierTent,architecture/legion/cl_soldierstent01low2x2.nif,1407x898x223,exclude,enterable building,
+0602314C,STAT,aaaWFPXLectern,clutter/lectern/lectern01.nif,41x50x98,cut,,vanilla (need BSA)
+0602314E,STAT,aaaWFPXLegGore,gore/goreleggore01.nif,65x23x12,cut,,vanilla (need BSA)
+06023150,STAT,aaaWFPXMicroficheMachine,clutter/office/microfilm01.nif,81x70x146,cut,,vanilla (need BSA)
+06023152,STAT,aaaWFPXMicroscope,clutter/junk/microscope01.nif,12x18x28,exclude,too small,
+06023154,STAT,aaaWFPXMilitaryCrate,dlcanch/clutter/crate/nvmilitarycrate.nif,87x174x105,cut,,vanilla (need BSA)
+06023156,STAT,aaaWFPXBrokenMilitaryCrate1,nvdlc04/clutter/militarycrate/nvdlc04militarycratebroken.nif,49x99x43,cut,,vanilla (need BSA)
+06023158,STAT,aaaWFPXBrokenMilitaryCrate2,nvdlc04/clutter/militarycrate/nvdlc04militarycratebroken02.nif,68x96x26,cut,,vanilla (need BSA)
+0602315A,CONT,aaaWFPXAntRefusePile,clutter/antrefusepile02.nif,64x64x64,cut,,vanilla (need BSA)
+0602315C,STAT,aaaWFPXMobileHome,vehicles/mobilehomeasnv.nif,1044x279x298,exclude,enterable building,
+0602315E,STAT,aaaWFPXBabyMobile,clutter/toys/mobile01.nif,48x33x29,cut,,vanilla (need BSA)
+06023160,STAT,aaaWFPXMonkeyBars,clutter/playground/ruined/monkeybarsruined01.nif,208x63x150,cut,,vanilla (need BSA)
+06023162,STAT,aaaWFPXMonthlySalesChart,clutter/sunsetsarsaparillahqsaleschart/sshqsaleschart.nif,104x66x164,cut,,vanilla (need BSA)
+06023164,STAT,aaaWFPXMopBucket,clutter/maintenance/mopbucket01.nif,32x57x60,cut,,vanilla (need BSA)
+06023166,STAT,aaaWFPXMoroccanLantern,clutter/lights/nvgomorrahmoroccanlamp01.nif,695x968x407,cut,,vanilla (need BSA)
+06023168,STAT,aaaWFPXGardenLantern,architecture/strip/gardenlight.nif,47x79x47,cut,,vanilla (need BSA)
+0602316A,STAT,aaaWFPXStarLantern,clutter/lights/starlanternorange.nif,64x64x64,cut,,vanilla (need BSA)
+0602316C,STAT,aaaWFPXMovieSpeaker,clutter/junk/moviespeakers01.nif,28x24x87,exclude,too small,
+0602316E,STAT,aaaWFPXSecurityLoudspeakers,clutter/questitems/ms17loudspeakers01.nif,211x161x101,cut,,vanilla (need BSA)
+06023170,STAT,aaaWFPXStripStreetLamp1,architecture/strip/nvstripstreetlamp01off.nif,326x28x537,cut,,vanilla (need BSA)
+06023172,STAT,aaaWFPXStripStreetLamp2,architecture/strip/nvstripstreetlamp02on.nif,174x28x555,cut,,vanilla (need BSA)
+06023174,STAT,aaaWFPXMalfunctioningAutoDoc,nvdlc01/clutter/nvdlc01_autodoc/nvdlc01_autodoc.nif,190x152x218,cut,,vanilla (need BSA)
+06023176,STAT,aaaWFPXBigMtAutoDoc,nvdlc03/clutter/autodoc/nvdlc01_autodoc.nif,190x152x196,cut,,vanilla (need BSA)
+06023178,STAT,aaaWFPXMoleRatSkinRug,dlc04/clutter/dlc04moleratskinrug.nif,104x130x9,exclude,walkable surface,
+0602317A,STAT,aaaWFPXDriveInMovieScreen,nvdlc03/clutter/nvdlc03_satellite/nvdlc03_drivein-movie.nif,2x1024x423,exclude,flat/wall-mounted,
+0602317C,ACTI,aaaWFPXMuseumPlaque,architecture/urban/museumrotunda/museumplaque01.nif,22x42x87,cut,,vanilla (need BSA)
+0602317E,STAT,aaaWFPXMusicStand,clutter/questitems/ms17musicstand01.nif,30x34x93,exclude,too small,
+06023180,STAT,aaaWFPXTarget,clutter/targetsandwalls/target.nif,64x64x0,cut,,vanilla (need BSA)
+06023182,FURN,aaaWFPXNavalBench,furniture/navalbench02.nif,106x200x125,exclude,type FURN,
+06023184,STAT,aaaWFPXNavalChair,furniture/navelchair02.nif,30x31x65,exclude,too small,
+06023186,STAT,aaaWFPXNavalCot,furniture/navalcot01.nif,144x70x61,cut,,vanilla (need BSA)
+06023188,STAT,aaaWFPXNavalTable,furniture/navaltable01.nif,50x142x54,cut,,vanilla (need BSA)
+0602318A,STAT,aaaWFPXNuclearFlask1,clutter/nv_nuclearflask/nv_nuclearflask01.nif,64x64x64,cut,,vanilla (need BSA)
+0602318C,STAT,aaaWFPXNuclearFlask2,clutter/nv_nuclearflask/nv_nuclearflask02.nif,64x64x64,cut,,vanilla (need BSA)
+0602318E,STAT,aaaWFPXNuclearFlask3,clutter/nv_nuclearflask/nv_nuclearflask03.nif,64x64x64,cut,,vanilla (need BSA)
+06023190,STAT,aaaWFPXRoundSandbagBunkerTower1,dlc04/architecture/military/dlc04sandbagbunkerroundtower.nif,476x453x571,exclude,enterable building,
+06023192,STAT,aaaWFPXRoundSandbagBunkerTower2,dlc04/architecture/military/dlc04sandbagbunkerroundtowerr.nif,532x686x333,exclude,enterable building,
+06023194,STAT,aaaWFPXNukaColaSandbag,clutter/sandbag/sandbagnukacola.nif,31x51x26,cut,,vanilla (need BSA)
+06023196,STAT,aaaWFPXSandbag,clutter/sandbag/sandbag_single01.nif,31x51x26,cut,,vanilla (need BSA)
+06023198,STAT,aaaWFPXNukaLamp,clutter/questitems/nukalamp01.nif,16x18x40,exclude,too small,
+0602319A,STAT,aaaWFPXOfficeFan,clutter/office/fan01.nif,21x15x32,exclude,too small,
+0602319C,STAT,aaaWFPXCeilingFanUtility,dungeons/utility/rooms/utlrmfan01.nif,192x192x47,cut,,vanilla (need BSA)
+0602319E,STAT,aaaWFPXOperatingLight,dungeons/vaultruined/clutter/operatinglightr01.nif,136x112x68,cut,,vanilla (need BSA)
+060231A0,STAT,aaaWFPXSurgicalCart,dungeons/vaultruined/clutter/surgicalcartr01.nif,40x48x68,cut,,vanilla (need BSA)
+060231A2,FURN,aaaWFPXOuthouse,architecture/wasteland/outhouse.nif,123x144x190,exclude,type FURN,
+060231A4,STAT,aaaWFPXPatioUmbrella,clutter/umbrella.nif,170x216x138,cut,,vanilla (need BSA)
+060231A6,STAT,aaaWFPXParkingLotLight1,architecture/paradisefalls/parkinglot/nv_parkinglotlight01.nif,382x382x933,cut,,vanilla (need BSA)
+060231A8,STAT,aaaWFPXParkingLotLight2,architecture/paradisefalls/parkinglot/nv_parkinglotlight02.nif,379x245x940,cut,,vanilla (need BSA)
+060231AA,STAT,aaaWFPXParkingLotLight3,architecture/paradisefalls/parkinglot/nv_parkinglotlight03.nif,379x378x954,cut,,vanilla (need BSA)
+060231AC,STAT,aaaWFPXPinballMachine,dlc04/clutter/boardwalk/dlc04pinballmachine01.nif,64x64x64,cut,,vanilla (need BSA)
+060231AE,STAT,aaaWFPXSnowGlobe1,clutter/snowglobes/snowglobes_goodsprings.nif,20x12x16,exclude,too small,
+060231B0,STAT,aaaWFPXSnowGlobe2,clutter/snowglobes/snowglobes_thestrip.nif,20x12x16,exclude,too small,
+060231B2,STAT,aaaWFPXSnowGlobe3,clutter/snowglobes/snowglobes_testsite.nif,20x12x16,exclude,too small,
+060231B4,STAT,aaaWFPXPleximap1,clutter/hiddenvalley/nv_pleximap01.nif,43x178x183,cut,,vanilla (need BSA)
+060231B6,STAT,aaaWFPXPleximap2,nvdlc03/clutter/nvdlc03nvpleximapblue.nif,43x178x183,cut,,vanilla (need BSA)
+060231B8,STAT,aaaWFPXOperatingTable1,clutter/operatingtable01.nif,161x61x77,cut,,vanilla (need BSA)
+060231BA,STAT,aaaWFPXOperatingTable2,dungeons/vaultruined/clutter/operatingtabler01.nif,161x61x77,cut,,vanilla (need BSA)
+060231BC,STAT,aaaWFPXPlanter1,clutter/planter01.nif,94x42x39,cut,,vanilla (need BSA)
+060231BE,STAT,aaaWFPXPlanter2,clutter/planter02.nif,94x42x39,cut,,vanilla (need BSA)
+060231C0,STAT,aaaWFPXPlanter3,clutter/planter03.nif,70x44x16,cut,,vanilla (need BSA)
+060231C2,STAT,aaaWFPXPokerChipRack,clutter/casino/pokerchiprackfull.nif,64x64x64,cut,,vanilla (need BSA)
+060231C4,STAT,aaaWFPXPopcornBox,dlc04/clutter/boardwalktrash/dlc04popcornbox01.nif,64x64x64,cut,,vanilla (need BSA)
+060231C6,STAT,aaaWFPXPostalBox,clutter/questitems/mq03postalbox.nif,38x40x26,cut,,vanilla (need BSA)
+060231C8,CONT,aaaWFPXMailbox1,clutter/mailbox/mailboxclean01.nif,14x38x91,exclude,too small,
+060231CA,CONT,aaaWFPXMailbox2,clutter/mailbox/mailboxdestroyed01.nif,16x41x94,cut,,vanilla (need BSA)
+060231CC,STAT,aaaWFPXProtectronPod,clutter/protectronpod/protectronpod01.nif,142x152x170,cut,,vanilla (need BSA)
+060231CE,STAT,aaaWFPXEnclaveTechPod,dungeons/enclave/accessories/ecvtechpod04.nif,106x106x191,cut,,vanilla (need BSA)
+060231D0,STAT,aaaWFPXStasisPod,dungeons/enclave/custom/ecvplayerstasispod01.nif,106x106x191,cut,,vanilla (need BSA)
+060231D2,STAT,aaaWFPXRaiderCorpseducken,clutter/raiderdressing/raidercorpseducken.nif,75x145x61,cut,,vanilla (need BSA)
+060231D4,STAT,aaaWFPXRivetCityPowerBox1,dungeons/rivetcity/accessories/rcpowerbox01.nif,80x66x106,cut,,vanilla (need BSA)
+060231D6,STAT,aaaWFPXRivetCityPowerBox2,nvdlc04/clutter/nvdlc04rcpowerbox01.nif,60x50x106,cut,,vanilla (need BSA)
+060231D8,STAT,aaaWFPXRoadBlock,clutter/junk/roadblock01.nif,42x160x64,cut,,vanilla (need BSA)
+060231DA,STAT,aaaWFPXRocketFort,clutter/playground/ruined/rocketfort01.nif,162x155x374,cut,,vanilla (need BSA)
+060231DC,STAT,aaaWFPXUfoFort,clutter/playground/ruined/ufofort01.nif,261x414x196,cut,,vanilla (need BSA)
+060231DE,STAT,aaaWFPXRollerSkate,clutter/questitems/rollerskate01.nif,7x20x16,exclude,flat/wall-mounted,
+060231E0,ACTI,aaaWFPXRouletteTable,clutter/casino/roulettetable01.nif,136x200x87,cut,,vanilla (need BSA)
+060231E2,STAT,aaaWFPXSeesaw1,clutter/playground/ruined/seesawruined01.nif,92x272x118,cut,,vanilla (need BSA)
+060231E4,STAT,aaaWFPXSeesaw2,clutter/playground/ruined/seesawruineda02.nif,92x178x77,cut,,vanilla (need BSA)
+060231E6,STAT,aaaWFPXGolfCart1,vehicles/nv_golfcart_01.nif,104x240x162,cut,,vanilla (need BSA)
+060231E8,STAT,aaaWFPXGolfCart2,vehicles/nv_golfcart_02.nif,104x246x99,cut,,vanilla (need BSA)
+060231EA,STAT,aaaWFPXGolfCart3,vehicles/nv_golfcart_03.nif,104x148x97,cut,,vanilla (need BSA)
+060231EC,STAT,aaaWFPXPlasmaGlobe,dlc03/clutter/scientistlab/dlc03plasmaglobe.nif,62x62x62,cut,,vanilla (need BSA)
+060231EE,STAT,aaaWFPXRaiderCorpseDressing,clutter/raiderdressing/raidercorpsedressing06.nif,214x363x54,cut,,vanilla (need BSA)
+060231F0,STAT,aaaWFPXRamshacklePole1,architecture/megaton/ramshacklepolereg03.nif,32x86x851,exclude,enterable building,
+060231F2,STAT,aaaWFPXRamshacklePole2,architecture/megaton/ramshacklepolereg04.nif,20x86x756,exclude,enterable building,
+060231F4,STAT,aaaWFPXRamshacklePoleLights1,architecture/megaton/ramshacklepolelightslng01.nif,1024x16x92,exclude,enterable building,
+060231F6,STAT,aaaWFPXRamshacklePoleLights2,architecture/megaton/ramshacklepolelightslng02.nif,1024x16x92,exclude,enterable building,
+060231F8,STAT,aaaWFPXSatelliteDish1,clutter/satellitedish/satellitedish01.nif,126x106x219,cut,,vanilla (need BSA)
+060231FA,STAT,aaaWFPXSatelliteDish2,clutter/satellitedish/satellitedish02.nif,126x106x283,cut,,vanilla (need BSA)
+060231FC,STAT,aaaWFPXSatelliteDishTripod,clutter/satellitetripod/nvsatellitedishtripod.nif,1055x1214x1138,cut,,vanilla (need BSA)
+060231FE,STAT,aaaWFPXBlackMountainSatelliteDish,architecture/wasteland/nvsatellitedishblackmountain02.nif,1694x1694x858,cut,,vanilla (need BSA)
+06023200,STAT,aaaWFPXShoppingCart,clutter/junk/shoppingcart01.nif,38x76x68,cut,,vanilla (need BSA)
+06023202,STAT,aaaWFPXShoppingCartCage,clutter/supermutantcamp/shoppingcartcage.nif,55x100x87,cut,,vanilla (need BSA)
+06023204,STAT,aaaWFPXSkeleton1,clutter/skeleton/skeletonmale50scasual.nif,88x20x133,cut,,vanilla (need BSA)
+06023206,STAT,aaaWFPXSkeleton2,clutter/skeleton/skeletonfemale50scasual.nif,88x19x133,cut,,vanilla (need BSA)
+06023208,STAT,aaaWFPXSkeleton3,clutter/skeleton/skeletonwholebodyclothed.nif,88x20x133,cut,,vanilla (need BSA)
+0602320A,STAT,aaaWFPXSkull,clutter/skeleton/skull.nif,10x14x17,exclude,too small,
+0602320C,ACTI,aaaWFPXSlotMachine1,clutter/casino/slot_machine01gomorrah.nif,40x32x59,cut,,vanilla (need BSA)
+0602320E,ACTI,aaaWFPXSlotMachine2,clutter/casino/slot_machine01tops.nif,40x32x59,cut,,vanilla (need BSA)
+06023210,ACTI,aaaWFPXSlotMachine3,clutter/casino/slot_machine02.nif,40x32x59,cut,,vanilla (need BSA)
+06023212,STAT,aaaWFPXSlotTable,clutter/casino/slotmachinetable02.nif,46x38x50,cut,,vanilla (need BSA)
+06023214,STAT,aaaWFPXSphereLight,clutter/lights/spherelight.nif,130x136x340,cut,,vanilla (need BSA)
+06023216,STAT,aaaWFPXDisplayCase,architecture/generic/genericdisplaycase01.nif,96x44x163,cut,,vanilla (need BSA)
+06023218,STAT,aaaWFPXSunsetSarsaparillaDisplayCase,architecture/sunsets/ssdisplaycase.nif,96x46x196,cut,,vanilla (need BSA)
+0602321A,STAT,aaaWFPXSuperMutantCart,clutter/supermutantcamp/supermutantcart.nif,255x386x117,cut,,vanilla (need BSA)
+0602321C,STAT,aaaWFPXSwings,clutter/playground/ruined/swingsruined02.nif,264x110x187,cut,,vanilla (need BSA)
+0602321E,STAT,aaaWFPXSwitchboard,clutter/office/switchboard01.nif,58x350x188,exclude,walkable surface,
+06023220,STAT,aaaWFPXGomorrahStage1,dungeons/nvgamorrah/nvgomorrahstage01.nif,146x458x86,cut,,vanilla (need BSA)
+06023222,STAT,aaaWFPXGomorrahStage2,dungeons/nvgamorrah/nvgomorrahstage02.nif,430x458x86,cut,,vanilla (need BSA)
+06023224,STAT,aaaWFPXGomorrahStageCurtain,clutter/nv_gamorrah/nvgomorrahstagecurtain02.nif,622x18x187,cut,,vanilla (need BSA)
+06023226,STAT,aaaWFPXTapeMachine,clutter/consoles/tapemachine01.nif,52x75x161,cut,,vanilla (need BSA)
+06023228,STAT,aaaWFPXTelephone,clutter/junk/telephone01.nif,64x64x64,cut,,vanilla (need BSA)
+0602322A,STAT,aaaWFPXSlide,clutter/playground/ruined/slideruined01.nif,73x486x221,cut,,vanilla (need BSA)
+0602322C,STAT,aaaWFPXSpotlight,architecture/megaton/megatonspotlight01.nif,84x124x163,cut,,vanilla (need BSA)
+0602322E,STAT,aaaWFPXTallStageLight1,clutter/lights/nvstagelighttallon.nif,85x74x253,cut,,vanilla (need BSA)
+06023230,STAT,aaaWFPXTallStageLight2,clutter/lights/nvstagelighttalloff.nif,85x74x246,cut,,vanilla (need BSA)
+06023232,STAT,aaaWFPXTenpennyChandelier,architecture/chandelier/tenpennychandelier.nif,322x323x278,cut,,vanilla (need BSA)
+06023234,STAT,aaaWFPXDirtyChandelier,clutter/junk/chandelierdirty.nif,88x78x278,cut,,vanilla (need BSA)
+06023236,TERM,aaaWFPXTerminal,terminals/terminaldesk01.nif,42x40x37,cut,,vanilla (need BSA)
+06023238,TERM,aaaWFPXRuinedTerminal,dungeons/vaultruined/clutter/terminaldeskr01.nif,42x40x37,cut,,vanilla (need BSA)
+0602323A,STAT,aaaWFPXGomorrahCurtain1,clutter/nv_gamorrah/nvgomorrahcurtain04.nif,32x284x270,cut,,vanilla (need BSA)
+0602323C,STAT,aaaWFPXGomorrahCurtain2,clutter/casino/gomorrahvelvetcurtain04.nif,232x13x234,cut,,vanilla (need BSA)
+0602323E,STAT,aaaWFPXTopsMusicSign,dungeons/nv_casino_tops/nv_tops_recmusicsign.nif,294x8x465,exclude,flat/wall-mounted,
+06023240,STAT,aaaWFPXTopsDinerSign,dungeons/nv_casino_tops/nv_tops_diner_sign.nif,64x6x58,exclude,flat/wall-mounted,
+06023242,STAT,aaaWFPXTireStack,clutter/junk/tirestack02.nif,65x62x113,cut,,vanilla (need BSA)
+06023244,STAT,aaaWFPXTirePile,clutter/junk/tirepile02.nif,198x292x114,cut,,vanilla (need BSA)
+06023246,STAT,aaaWFPXTire,clutter/junk/tirestatic01.nif,56x56x16,cut,,vanilla (need BSA)
+06023248,STAT,aaaWFPXToxicWasteBarrel,clutter/barrel02.nif,64x62x100,cut,,vanilla (need BSA)
+0602324A,STAT,aaaWFPXTrackFlag,clutter/trackflag.nif,14x585x371,exclude,flat/wall-mounted,
+0602324C,STAT,aaaWFPXTrafficCone,clutter/office/trafficcone01.nif,27x28x43,exclude,too small,
+0602324E,STAT,aaaWFPXPainting1,dlc04/clutter/dlc04painting03.nif,62x2x46,exclude,flat/wall-mounted,
+06023250,STAT,aaaWFPXPainting2,dlc04/clutter/dlc04painting04.nif,62x2x46,exclude,flat/wall-mounted,
+06023252,STAT,aaaWFPXPainting3,dlc04/clutter/dlc04painting05.nif,62x2x46,exclude,flat/wall-mounted,
+06023254,STAT,aaaWFPXKimballPortrait,clutter/posters/kimblepaintings/kimbleportrait.nif,86x106x1,exclude,flat/wall-mounted,
+06023256,STAT,aaaWFPXTricycle1,clutter/tricycle/tricycleclean01.nif,48x71x59,cut,,vanilla (need BSA)
+06023258,STAT,aaaWFPXTricycle2,clutter/tricycle/tricycledirty01.nif,48x71x59,cut,,vanilla (need BSA)
+0602325A,STAT,aaaWFPXTypewriter,clutter/office/typewriter01.nif,42x48x40,cut,,vanilla (need BSA)
+0602325C,STAT,aaaWFPXUrbanBench,furniture/benchurban01.nif,64x64x64,cut,,vanilla (need BSA)
+0602325E,ACTI,aaaWFPXUrinal,clutter/office/urinal01.nif,32x20x77,exclude,too small,
+06023260,STAT,aaaWFPXUtilityPole1,architecture/urban/streetdressing/utilitypolewsingle01nv.nif,142x72x702,cut,,vanilla (need BSA)
+06023262,STAT,aaaWFPXUtilityPole2,architecture/urban/streetdressing/utilitypolewsingle02nv.nif,142x91x702,cut,,vanilla (need BSA)
+06023264,STAT,aaaWFPXVrPod,furniture/tlpodplayer01.nif,312x150x186,cut,,vanilla (need BSA)
+06023266,STAT,aaaWFPXNellisFlightSimulator,furniture/tlpod01.nif,312x150x212,cut,,vanilla (need BSA)
+06023268,STAT,aaaWFPXVacuumTubeLight,clutter/vacuumtubelight/vacuumtubelight.nif,33x28x23,exclude,too small,
+0602326A,STAT,aaaWFPXToyChest,clutter/chest/vbabyroomchest01.nif,72x82x69,cut,,vanilla (need BSA)
+0602326C,STAT,aaaWFPXTrafficLight,dlc03/clutter/traffic lights/dlc03streettraffic01.nif,81x57x91,cut,,vanilla (need BSA)
+0602326E,STAT,aaaWFPXStreetPost,dlc03/clutter/traffic lights/dlc03streetpost02.nif,52x52x766,cut,,vanilla (need BSA)
+06023270,STAT,aaaWFPXTranquilityLanePainting1,clutter/tranquilitylane/tlpainting03.nif,62x2x46,exclude,flat/wall-mounted,
+06023272,STAT,aaaWFPXTranquilityLanePainting2,clutter/tranquilitylane/tlpainting05.nif,62x2x46,exclude,flat/wall-mounted,
+06023274,STAT,aaaWFPXTranquilityLanePainting3,clutter/tranquilitylane/tlpainting07.nif,62x2x46,exclude,flat/wall-mounted,
+06023276,FURN,aaaWFPXVaultBench,furniture/vault/vbench01.nif,132x82x126,exclude,type FURN,
+06023278,STAT,aaaWFPXVaultMonitorBank,dungeons/vault/accessories/vmonitorbank.nif,6x112x81,exclude,flat/wall-mounted,
+0602327A,STAT,aaaWFPXVaultOverseerDesk1,dungeons/vault/room/vrmoverseerdesk01.nif,352x288x182,cut,,vanilla (need BSA)
+0602327C,STAT,aaaWFPXVaultOverseerDesk2,dungeons/vaultruined/room/vrmoverseerdeskr01.nif,352x288x182,cut,,vanilla (need BSA)
+0602327E,STAT,aaaWFPXVaultWallScreen1,dungeons/vault/room/vrmwallscreenoff01.nif,256x264x247,cut,,vanilla (need BSA)
+06023280,STAT,aaaWFPXVaultWallScreen2,dungeons/vaultruined/room/vrmwallscreenrr01.nif,256x264x248,cut,,vanilla (need BSA)
+06023282,STAT,aaaWFPXEnclaveWarRoom,dungeons/enclave/custom/ecvwarroom14.nif,554x554x113,cut,,vanilla (need BSA)
+06023284,ACTI,aaaWFPXWaterCrate1,dlc03/clutter/watercrate/nv_watercratesqr01.nif,108x108x156,cut,,vanilla (need BSA)
+06023286,ACTI,aaaWFPXWaterCrate2,dlc03/clutter/watercrate/nv_watercraterect01.nif,108x204x156,cut,,vanilla (need BSA)
+06023288,STAT,aaaWFPXBrotherhoodCrate,dlc03/clutter/watercrate/nv_cratebosgeneric01.nif,108x108x156,cut,,vanilla (need BSA)
+0602328A,ACTI,aaaWFPXWaterTower,architecture/wasteland/watertower01.nif,1194x1236x2018,exclude,enterable building,
+0602328C,ACTI,aaaWFPXWaterTowerPipes,architecture/wasteland/watertowerpipes01.nif,141x61x368,exclude,enterable building,
+0602328E,STAT,aaaWFPXWheelchair,dlc04/furniture/dlc04wheelchair01.nif,71x52x89,cut,,vanilla (need BSA)
+06023290,STAT,aaaWFPXWindmill1,clutter/farm/windmill01_nv.nif,345x262x603,cut,,vanilla (need BSA)
+06023292,STAT,aaaWFPXWindmill2,clutter/farm/windmill_nv.nif,345x262x605,cut,,vanilla (need BSA)
+06023294,STAT,aaaWFPXWoodCart,vehicles/nv_woodcart.nif,172x275x126,cut,,vanilla (need BSA)
+06023296,STAT,aaaWFPXWoodWallChunk,clutter/junk/woodwallchunk01.nif,156x360x34,exclude,walkable surface,
+06023298,STAT,aaaWFPXXRayLightBox1,clutter/hospital/xraylightbox01.nif,92x7x62,exclude,flat/wall-mounted,
+0602329A,STAT,aaaWFPXXRayLightBox2,clutter/hospital/xraylightbox02.nif,92x7x62,exclude,flat/wall-mounted,
+0602329C,STAT,aaaWFPXXRayLightBox3,clutter/hospital/xraylightbox03.nif,92x7x62,exclude,flat/wall-mounted,
+0602329E,STAT,aaaWFPXYangtzeMemorial,architecture/yangtzewarmemorial/nv_yangtzewarmemorial.nif,1472x1740x1404,cut,,vanilla (need BSA)
+060232A0,STAT,aaaWFPXBlackStoneMemorial,architecture/hooverdam/nv_blackstonememorial.nif,1197x507x1023,cut,,vanilla (need BSA)
+060232A2,STAT,aaaWFPXRuinedMainframe1,clutter/consoles/mainframer01.nif,195x314x185,cut,,vanilla (need BSA)
+060232A4,STAT,aaaWFPXRuinedMainframe2,clutter/consoles/mainframesmallr01.nif,195x132x175,cut,,vanilla (need BSA)
+060232A6,STAT,aaaWFPXVaultDoorControlPanel,dungeons/vault/accessories/controlpanelvault01.nif,70x29x112,cut,,vanilla (need BSA)
+060232A8,STAT,aaaWFPXDinerBooth,furniture/dinerbooth01.nif,124x43x66,cut,,vanilla (need BSA)
+060232AA,STAT,aaaWFPXVault19Booth1,dungeons/vaultruined/roomu/vurmboothendleftr02.nif,97x113x241,cut,,vanilla (need BSA)
+060232AC,STAT,aaaWFPXVault19Booth2,dungeons/vaultruined/roomu/vurmboothendrightr02.nif,97x113x241,cut,,vanilla (need BSA)
+060232AE,STAT,aaaWFPXVault22Planter,architecture/vault22/v22planter.nif,256x256x104,cut,,vanilla (need BSA)
+060232B0,STAT,aaaWFPXStarLanternGreen,clutter/lights/starlanterngreen.nif,64x64x64,cut,,vanilla (need BSA)
+060232B2,STAT,aaaWFPXSnowGlobeStand,clutter/snowglobes/snowglobedisplay.nif,88x40x98,cut,,vanilla (need BSA)
+060232B4,STAT,aaaWFPXLegionFence1,clutter/clfence/clfence01.nif,265x54x320,cut,,vanilla (need BSA)
+060232B6,STAT,aaaWFPXLegionFence2,clutter/clfence/clfence02.nif,521x54x320,cut,,vanilla (need BSA)
+060232B8,STAT,aaaWFPXWarRoomTableEnclave,dungeons/enclave/ravenrock/warroomtable01.nif,220x220x80,cut,,vanilla (need BSA)
+060232BA,STAT,aaaWFPXCleanPicketFenceMiddle1,clutter/fence/nv_fencepickcleanmid01.nif,128x2x106,exclude,flat/wall-mounted,
+060232BC,STAT,aaaWFPXCleanPicketFenceMiddle2,clutter/fence/nv_fencepickcleanmid02.nif,256x2x106,exclude,flat/wall-mounted,
+060232BE,STAT,aaaWFPXCleanPicketFenceCorner1,clutter/fence/nv_fencepickcleancorin01.nif,133x134x116,cut,,vanilla (need BSA)
+060232C0,STAT,aaaWFPXCleanPicketFenceCorner2,clutter/fence/nv_fencepickcleancorout01.nif,130x131x116,cut,,vanilla (need BSA)
+060232C2,STAT,aaaWFPXCleanPicketFenceTSection1,clutter/fence/nv_fencepickcleantsecin01.nif,127x134x116,cut,,vanilla (need BSA)
+060232C4,STAT,aaaWFPXCleanPicketFenceTSection2,clutter/fence/nv_fencepickcleantsecout01.nif,127x133x116,cut,,vanilla (need BSA)
+060232C6,STAT,aaaWFPXBurntPicketFence1,clutter/fence/nv_fencepickburntmid01.nif,129x2x106,exclude,flat/wall-mounted,
+060232C8,STAT,aaaWFPXBurntPicketFence2,clutter/fence/nv_fencepickburntcorin01.nif,135x142x116,cut,,vanilla (need BSA)
+060232CA,STAT,aaaWFPXBurntPicketFence3,clutter/fence/nv_fencepickburnttsecin01.nif,129x137x116,cut,,vanilla (need BSA)
+060232CC,STAT,aaaWFPXBurntPicketFence4,clutter/fence/nv_fencepickburntpost01.nif,10x10x116,exclude,too small,
+060232CE,STAT,aaaWFPXWoodBarrel,clutter/nvwoodbarrel/nvwoodbarrel.nif,56x56x91,cut,,vanilla (need BSA)
+060232D0,STAT,aaaWFPXWashingMachine1,clutter/nvwashingmachine01.nif,76x60x75,cut,,vanilla (need BSA)
+060232D2,STAT,aaaWFPXWashingMachine2,clutter/nvwashingmachine02.nif,76x58x75,cut,,vanilla (need BSA)
+060232D4,CONT,aaaWFPXAmmunitionBox,clutter/ammo/ammobox01.nif,23x41x30,cut,,vanilla (need BSA)
+060232D6,CONT,aaaWFPXBriefcase,clutter/briefcasedetonator/briefcasedetonator01.nif,63x57x13,cut,,vanilla (need BSA)
+060232D8,CONT,aaaWFPXOven1,clutter/junk/rangeclean01.nif,72x82x90,cut,,vanilla (need BSA)
+060232DA,CONT,aaaWFPXOven2,clutter/junk/rangedirty01.nif,72x82x90,cut,,vanilla (need BSA)
+060232DC,CONT,aaaWFPXDesk,furniture/officeruined/desk01.nif,112x67x55,cut,,vanilla (need BSA)
+060232DE,CONT,aaaWFPXVaultDresser,dungeons/vaultruined/clutter/vdresserr01.nif,70x35x82,cut,,vanilla (need BSA)
+060232E0,ACTI,aaaWFPXEatOTronic3000,architecture/urban/streetdressing/automat01.nif,174x34x100,cut,,vanilla (need BSA)
+060232E2,CONT,aaaWFPXFireHoseBox,clutter/junk/firehosereel01.nif,64x64x64,cut,,vanilla (need BSA)
+060232E4,CONT,aaaWFPXFirstAidBox,clutter/health/firstaidkit01.nif,30x11x29,exclude,too small,
+060232E6,CONT,aaaWFPXGarbageCan1,clutter/garbagecan/garbagecanurban01.nif,64x64x64,cut,,vanilla (need BSA)
+060232E8,CONT,aaaWFPXGarbageCan2,clutter/garbagecan/garbagecanurban02.nif,64x64x64,cut,,vanilla (need BSA)
+060232EA,CONT,aaaWFPXGarbageCan3,nvdlc01/clutter/nvdlc01_garbagecan/nvdlc01_garbagecan.nif,44x44x84,cut,,vanilla (need BSA)
+060232EC,CONT,aaaWFPXGrave,clutter/coffin/burialmound03.nif,328x173x23,exclude,walkable surface,
+060232EE,CONT,aaaWFPXToolCabinet,clutter/guncabinet/guncabinet01.nif,46x97x168,exclude,enterable building,
+060232F0,CONT,aaaWFPXGunCabinet1,clutter/lockercabinet01.nif,92x42x144,exclude,enterable building,
+060232F2,CONT,aaaWFPXGunCabinet2,clutter/lockercabinet02.nif,92x42x144,exclude,enterable building,
+060232F4,CONT,aaaWFPXFootlocker,clutter/footlocker/footlocker01.nif,22x66x23,cut,,vanilla (need BSA)
+060232F6,CONT,aaaWFPXEnclaveCrate,clutter/enclaveencampment/enclavecrate01.nif,47x108x33,cut,,vanilla (need BSA)
+060232F8,CONT,aaaWFPXHollowedOutRock,landscape/nv_rocks/nvn_rockcanyon10.nif,371x208x390,cut,,vanilla (need BSA)
+060232FA,CONT,aaaWFPXLawnmower,clutter/lawnmower/lawnmower.nif,64x103x74,cut,,vanilla (need BSA)
+060232FC,CONT,aaaWFPXMetalBox1,clutter/office/metalbox01.nif,44x42x34,cut,,vanilla (need BSA)
+060232FE,CONT,aaaWFPXMetalBox2,clutter/office/metalbox02.nif,42x35x39,cut,,vanilla (need BSA)
+06023300,CONT,aaaWFPXMojaveExpressDropbox,clutter/nv_mojave-express_dropbox/nv_mojave-express_dropbox.nif,98x71x95,cut,,vanilla (need BSA)
+06023302,CONT,aaaWFPXRefrigerator1,clutter/fridge/refrigeratorclean.nif,61x38x129,cut,,vanilla (need BSA)
+06023304,CONT,aaaWFPXRefrigerator2,clutter/fridge/fridgeclosed01.nif,64x64x64,cut,,vanilla (need BSA)
+06023306,CONT,aaaWFPXAntiqueNukaColaFridge,clutter/questitems/nukafridge01clean.nif,61x38x129,cut,,vanilla (need BSA)
+06023308,CONT,aaaWFPXSafe1,clutter/security/genericsafe01.nif,64x64x64,cut,,vanilla (need BSA)
+0602330A,CONT,aaaWFPXSafe2,clutter/security/genericsafefloor01.nif,64x64x64,exclude,walkable surface,
+0602330C,CONT,aaaWFPXSafe3,clutter/security/genericsafewall01.nif,64x64x64,cut,,vanilla (need BSA)
+0602330E,CONT,aaaWFPXSuitcase,clutter/junk/suitcase01.nif,64x64x64,cut,,vanilla (need BSA)
+06023310,CONT,aaaWFPXWardrobe,furniture/hotel/hotelwardrobe.nif,56x37x117,cut,,vanilla (need BSA)
+06023312,STAT,aaaWFPXArtDecoVendingMachine,nvdlc01/clutter/vendingartdeco/nvdlc01vendingartdeco.nif,80x46x138,cut,,vanilla (need BSA)
+06023314,STAT,aaaWFPXArtDecoRadio,nvdlc01/clutter/artdecoradio/nvdlc01_artdecoradio.nif,31x26x42,exclude,too small,
+06023316,CONT,aaaWFPXNightStand,nvdlc01/furniture/nvdlc01nightstand.nif,64x64x64,cut,,vanilla (need BSA)
+06023318,CONT,aaaWFPXVent,nvdlc01/clutter/nvdlc01ventbroken.nif,64x64x64,cut,,vanilla (need BSA)
+0602331A,CONT,aaaWFPXSack1,clutter/questitems/nv_gssack01.nif,50x39x64,cut,,vanilla (need BSA)
+0602331C,CONT,aaaWFPXSack2,clutter/oasis/oasissack01.nif,52x38x58,cut,,vanilla (need BSA)
+0602331E,CONT,aaaWFPXClayPot1,nvdlc02/clutter/junk/nvdlc02claypot01c.nif,64x64x64,cut,,vanilla (need BSA)
+06023320,CONT,aaaWFPXClayPot2,nvdlc02/clutter/junk/nvdlc02claypot02c.nif,64x64x64,cut,,vanilla (need BSA)
+06023322,CONT,aaaWFPXHollowLog,nvdlc02/landscape/trees/nvdlc02_hollowlog.nif,64x64x64,cut,,vanilla (need BSA)
+06023324,CONT,aaaWFPXWoodenCrate1,dlcanch/clutter/dlcanchmilitartycrate01.nif,48x96x32,cut,,vanilla (need BSA)
+06023326,CONT,aaaWFPXWoodenCrate2,nvdlc02/clutter/nvdlc02_crateempty/nvdlc02_crateempty.nif,48x68x36,cut,,vanilla (need BSA)
+06023328,CONT,aaaWFPXElectricalBox,nvdlc03/clutter/nvdlc03electricalbox01.nif,44x42x34,cut,,vanilla (need BSA)
+0602332A,CONT,aaaWFPXWallSafe,nvdlc03/clutter/nvdlc03wallsafe.nif,11x74x66,cut,,vanilla (need BSA)
+0602332C,CONT,aaaWFPXSunsetSarsaparillaCrate,clutter/junk/sscratetallstatic.nif,64x64x64,cut,,vanilla (need BSA)
+0602332E,CONT,aaaWFPXStashToolbox,clutter/junk/toolbox01.nif,22x44x30,cut,,vanilla (need BSA)
+06023330,CONT,aaaWFPXDamagedShippingCrate,dlcanch/clutter/dlcanchmilitartycrate02.nif,48x96x32,cut,,vanilla (need BSA)
+06023332,CONT,aaaWFPXDestroyedEyebot,nvdlc04/clutter/eyebotbroken/nvdlc04eyebotbroken.nif,64x64x64,cut,,vanilla (need BSA)
+06023334,CONT,aaaWFPXDirtyCrate,clutter/junk/nv_gscratetall.nif,64x64x64,cut,,vanilla (need BSA)
+06023336,CONT,aaaWFPXMilitaryShippingCrate,nvdlc04/clutter/militarycrate/nvdlc04militarycrate.nif,48x98x34,cut,,vanilla (need BSA)
+06023338,CONT,aaaWFPXPartsCabinet,furniture/officeruined/cabinet01.nif,64x64x64,exclude,enterable building,
+0602333A,STAT,aaaWFPXArmyTruck,vehicles/truckarmy02static.nif,690x244x283,cut,,vanilla (need BSA)
+0602333C,STAT,aaaWFPXB29Scaffold,vehicles/b29/b29_scaffold.nif,1278x1761x277,exclude,walkable surface,
+0602333E,STAT,aaaWFPXBarge,dlc04/vehicles/dlc04bargeozymandias.nif,699x1577x920,cut,,vanilla (need BSA)
+06023340,STAT,aaaWFPXBoxcar,vehicles/boxcar.nif,272x1141x336,cut,,vanilla (need BSA)
+06023342,STAT,aaaWFPXCarHulk1,vehicles/wreckage/car01hulkbodystatic.nif,458x200x101,cut,,vanilla (need BSA)
+06023344,STAT,aaaWFPXCarHulk2,vehicles/wreckage/car03hulkbodystatic.nif,551x207x105,cut,,vanilla (need BSA)
+06023346,STAT,aaaWFPXCarHulk3,vehicles/wreckage/car10hulkbodystatic.nif,250x133x84,cut,,vanilla (need BSA)
+06023348,STAT,aaaWFPXHighwayman,vehicles/car03.nif,554x208x106,cut,,vanilla (need BSA)
+0602334A,STAT,aaaWFPXTruckHulk,dlcanch/vehicles/dlcanchtruckhulk05static.nif,600x244x229,cut,,vanilla (need BSA)
+0602334C,STAT,aaaWFPXMotorcycleHulk,vehicles/wreckage/motorcycle01hulkfrontstatic.nif,58x58x98,cut,,vanilla (need BSA)
+0602334E,STAT,aaaWFPXPropPlane,vehicles/nvsmallpropplane01.nif,1036x743x250,cut,,vanilla (need BSA)
+06023350,STAT,aaaWFPXCargoPlane,vehicles/nv_mccomplane01.nif,1198x2259x1023,cut,,vanilla (need BSA)
+06023352,STAT,aaaWFPXDeathCar,vehicles/deathcar.nif,439x194x301,cut,,vanilla (need BSA)
+06023354,STAT,aaaWFPXDumpTruck1,clutter/supermutantcamp/dumptruck.nif,592x256x281,cut,,vanilla (need BSA)
+06023356,STAT,aaaWFPXDumpTruck2,clutter/supermutantcamp/dumptruck01.nif,757x255x282,cut,,vanilla (need BSA)
+06023358,STAT,aaaWFPXExcavator,architecture/quarryjunction/excavatorcabin01.nif,1349x394x769,exclude,enterable building,
+0602335A,STAT,aaaWFPXFighterJet,dlc04/vehicles/dlc04fighterjet.nif,916x795x299,cut,,vanilla (need BSA)
+0602335C,STAT,aaaWFPXFireTruck,vehicles/nv_firetruck.nif,690x244x276,cut,,vanilla (need BSA)
+0602335E,STAT,aaaWFPXFrontLoader,vehicles/frontloader/frontloader01.nif,240x538x214,cut,,vanilla (need BSA)
+06023360,STAT,aaaWFPXHandCar,dlcpitt/clutter/railcar/dlcpittrailcar01.nif,144x284x134,cut,,vanilla (need BSA)
+06023362,STAT,aaaWFPXLocomotive,vehicles/nvtrainengine/nvtrainengine02.nif,264x1369x351,cut,,vanilla (need BSA)
+06023364,STAT,aaaWFPXBusBench,clutter/nvbusbench/nvbusbench.nif,127x87x125,cut,,vanilla (need BSA)
+06023366,STAT,aaaWFPXHighwayPatrolCar1,vehicles/nv_nhp-patrol-car.nif,186x372x130,cut,,vanilla (need BSA)
+06023368,STAT,aaaWFPXHighwayPatrolCar2,vehicles/nv_chp-patrol-car.nif,186x372x130,cut,,vanilla (need BSA)
+0602336A,STAT,aaaWFPXMotorcycle,vehicles/motorcycle01.nif,204x59x82,cut,,vanilla (need BSA)
+0602336C,STAT,aaaWFPXParkRangerTruck,nvdlc02/vehicles/nvdlc02_parkrangertruck.nif,509x225x179,cut,,vanilla (need BSA)
+0602336E,STAT,aaaWFPXPickupTruck,vehicles/nv_truck.nif,509x225x179,cut,,vanilla (need BSA)
+06023370,STAT,aaaWFPXTruck1,vehicles/truck01.nif,600x244x229,cut,,vanilla (need BSA)
+06023372,STAT,aaaWFPXTruck2,vehicles/truck02.nif,600x244x229,cut,,vanilla (need BSA)
+06023374,STAT,aaaWFPXVertibird,vehicles/vertibirdground01.nif,1252x931x546,exclude,enterable building,
+06023376,STAT,aaaWFPXMuseumRocketR77V29Z431,architecture/repconhq/rephqrocket01.nif,243x206x206,cut,,vanilla (need BSA)
+06023378,STAT,aaaWFPXMuseumRocketR77V29Z432,architecture/repconhq/rephqrocket02.nif,222x120x104,cut,,vanilla (need BSA)
+0602337A,STAT,aaaWFPXMuseumRocketR77V29Z433,architecture/repconhq/rephqrocket03.nif,233x98x96,cut,,vanilla (need BSA)
+0602337C,STAT,aaaWFPXRepconnRocket,architecture/repcon/reprocket.nif,476x1454x435,cut,,vanilla (need BSA)
+0602337E,STAT,aaaWFPXReconCraft,dlc05/vehicles/dlc05ufocrash.nif,845x1007x382,cut,,vanilla (need BSA)
+06023380,STAT,aaaWFPXRollercoasterCar,architecture/primm/eldiablocar.nif,137x522x102,cut,,vanilla (need BSA)
+06023382,STAT,aaaWFPXSedan,vehicles/car02.nif,505x186x111,cut,,vanilla (need BSA)
+06023384,STAT,aaaWFPXStreetCleaner,vehicles/streetcleaner01.nif,280x130x102,cut,,vanilla (need BSA)
+06023386,STAT,aaaWFPXRocketSilo,nvdlc04/clutter/rocket/nvdlc04rocketsilo.nif,346x266x2169,cut,,vanilla (need BSA)
+06023968,ACTI,aaaWFFortTerminal,stealthdick/radiant/sdjobstand01.nif,90x80x190,cut,,convert ANIMSTATIC/STATIC -> ANIMSTATIC
+0602420A,STAT,aaaWFPAPristineJukebox,clutter/jukebox/jukeboxclean01.nif,86x44x134,cut,,vanilla (need BSA)
+0602420C,CONT,aaaWFPAPristineNukaColaMachine,clutter/questitems/nukavendingmachineclean01.nif,90x70x184,cut,,vanilla (need BSA)
+0602420E,CONT,aaaWFPASunsetSarsaparillaMachine,clutter/ssvendingmachine/ssvendingmachinestatic.nif,92x68x161,cut,,vanilla (need BSA)
+06024210,STAT,aaaWFPAMagazineVendingMachine,clutter/vendingmachinemag/vendmachmag.nif,42x39x107,cut,,vanilla (need BSA)
+06024212,STAT,aaaWFPAPoolTable,clutter/billiards/pooltable.nif,311x176x58,cut,,vanilla (need BSA)
+06024214,STAT,aaaWFPABigMtBrainTank,nvdlc03/clutter/bodyparttank/nvdlc03playerbraintanksink.nif,126x123x183,cut,,vanilla (need BSA)
+06024216,STAT,aaaWFPANukaColaSign,clutter/signs/nukasignbig.nif,12x172x126,exclude,flat/wall-mounted,
+06024218,STAT,aaaWFPACrimsonCaravanSign,clutter/nv_crimcarv_sign.nif,171x3x95,exclude,flat/wall-mounted,
+0602421A,STAT,aaaWFPAUltraLuxeNeonSign,dungeons/nv_casinolo/nv_ultralux/nv_ul_neonsign01.nif,223x8x379,exclude,flat/wall-mounted,
+0602421C,STAT,aaaWFPATopsLoungeSign,dungeons/nv_casino_tops/nv_tops_recmusicsign.nif,294x8x465,exclude,flat/wall-mounted,
+0602421E,STAT,aaaWFPAUltraLuxeGourmandSign,dungeons/nv_casinolo/nv_ultralux/nv_ul_gourmandsign.nif,412x7x336,exclude,flat/wall-mounted,
+06024220,STAT,aaaWFPASilverRushSign,architecture/strip/silverrushsign.nif,744x192x592,exclude,flat/wall-mounted,
+06024222,STAT,aaaWFPABisonSteveSign,clutter/signnv/bssign.nif,477x70x1171,exclude,flat/wall-mounted,
+06024224,STAT,aaaWFPAMonteCarloSign,architecture/urban/signage/nv_signmontecarlo.nif,512x46x404,exclude,flat/wall-mounted,
+06024226,STAT,aaaWFPAGomorrahSign,architecture/strip/nv_gam_sign.nif,1184x164x2149,exclude,flat/wall-mounted,
+06024228,STAT,aaaWFPAVault21Sign,architecture/strip/nv_vault21_sign.nif,752x188x2051,exclude,flat/wall-mounted,
+0602422A,STAT,aaaWFPAWelcomeToFabulousNewVegasSign,architecture/strip/newvegassign.nif,422x124x648,exclude,flat/wall-mounted,
+0602422C,STAT,aaaWFPAWelcomeToTheStripSign,architecture/strip/nvwelcometothestripsign.nif,1166x192x669,exclude,flat/wall-mounted,
+0602422E,STAT,aaaWFPAFreesideWelcomeSign,architecture/freeside/freesidewelcomesign.nif,818x102x716,exclude,flat/wall-mounted,
+06024230,STAT,aaaWFPAMccarranSign,architecture/mccarran/nv_mccarran-sign.nif,712x1265x838,exclude,flat/wall-mounted,
+06024232,STAT,aaaWFPARocketStatue,vehicles/rocketstatuenv.nif,1364x1659x1620,cut,,vanilla (need BSA)
+06024234,STAT,aaaWFPAGiantRangersStatue,architecture/mojaveoutpost/nv_mojoutpost_statue01.nif,717x1322x1350,cut,,vanilla (need BSA)
+06024236,STAT,aaaWFPADinkyTheDinosaur,architecture/novac/novac_dino.nif,1111x1768x1556,cut,,vanilla (need BSA)
+06024B37,STAT,aaaWFPACDinerStool,wastelandforts/custom/dinerstool.nif,26x26x38,exclude,too small,
+06024B39,STAT,aaaWFPACGasMeter,wastelandforts/custom/gasmeter.nif,166x38x239,cut,,convert STATIC -> ANIMSTATIC
+06024B3B,STAT,aaaWFPACGasMeterWired,wastelandforts/custom/gasmeterwired.nif,166x38x239,cut,,convert STATIC -> ANIMSTATIC
+06024B3D,STAT,aaaWFPACNukaFridge,wastelandforts/custom/nukafridge.nif,90x91x179,cut,,convert STATIC -> ANIMSTATIC
+06024B3F,STAT,aaaWFPACPARigFrame,wastelandforts/custom/parigframe.nif,84x125x131,cut,,convert STATIC -> ANIMSTATIC
+06024B41,STAT,aaaWFPACPARigFrameNoChains,wastelandforts/custom/parigframenochains.nif,84x125x131,cut,,convert STATIC -> ANIMSTATIC
+06024B43,STAT,aaaWFPACRedRocketSign,wastelandforts/custom/redrocketsign.nif,61x630x145,exclude,flat/wall-mounted,
+06024B45,STAT,aaaWFPACTrailerTV,wastelandforts/custom/trailertv.nif,56x61x106,exclude,enterable building,
+06024F6C,ACTI,aaaWFPACAtomicRadio,clutter/vintageradio/vintageradio01.nif,38x21x42,exclude,too small,
+0602529E,STAT,aaaWFPAFCazadorSign,fusemiscresources/requirestextures/clutter/signs/cazador_sign.nif,124x57x144,exclude,flat/wall-mounted,
+060252A0,STAT,aaaWFPAFCazadorGraffitiSign,fusemiscresources/requirestextures/clutter/signs/cazador_sign02.nif,124x57x144,exclude,flat/wall-mounted,
+060252A2,STAT,aaaWFPAFDeathclawWarningSign,fusemiscresources/clutter/signs/deathclaw_sign02.nif,124x57x144,exclude,flat/wall-mounted,
+060252A4,STAT,aaaWFPAFDesertSign1,fusemiscresources/requirestextures/clutter/signs/desert_sign01.nif,66x11x156,exclude,flat/wall-mounted,
+060252A6,STAT,aaaWFPAFDesertSign2,fusemiscresources/requirestextures/clutter/signs/desert_sign02.nif,39x9x172,exclude,flat/wall-mounted,
+060252A8,STAT,aaaWFPAFDesertSign3,fusemiscresources/requirestextures/clutter/signs/desert_sign03.nif,45x11x154,exclude,flat/wall-mounted,
+060252AA,STAT,aaaWFPAFDesertSign4,fusemiscresources/requirestextures/clutter/signs/desert_sign04.nif,41x7x114,exclude,flat/wall-mounted,
+060252AC,STAT,aaaWFPAFDesertSign5,fusemiscresources/requirestextures/clutter/signs/desert_sign05.nif,48x9x152,exclude,flat/wall-mounted,
+060252AE,STAT,aaaWFPAFGasStationSign,fusemiscresources/requirestextures/clutter/signs/gas_station_sign.nif,234x19x309,exclude,flat/wall-mounted,
+060252B0,STAT,aaaWFPAFOnAirSign,fusemiscresources/requirestextures/clutter/signs/on_air_sign.nif,72x32x18,exclude,flat/wall-mounted,
+060252B2,STAT,aaaWFPAFRobcoEmployeesOnlySign,fusemiscresources/clutter/signs/robcoemployeesonlysign.nif,28x0x20,exclude,flat/wall-mounted,
+060252B4,STAT,aaaWFPAFGlowingExitSign1,fusemiscresources/clutter/exitsigns/exitsign01_glow.nif,28x38x20,exclude,flat/wall-mounted,
+060252B6,STAT,aaaWFPAFGlowingExitSign2,fusemiscresources/clutter/exitsigns/exitsign02_glow.nif,20x32x28,exclude,flat/wall-mounted,
+060252B8,STAT,aaaWFPAFGlowingExitSign3,fusemiscresources/clutter/exitsigns/exitsign03_glow.nif,10x40x28,exclude,flat/wall-mounted,
+060252BA,STAT,aaaWFPAFVaultDinerSign,fusemiscresources/dungeons/vault/signage/vsigndiner01.nif,72x32x18,exclude,flat/wall-mounted,
+060252BC,STAT,aaaWFPAFVaultUtilitySign,fusemiscresources/dungeons/vault/signage/vsignutility01.nif,72x32x18,exclude,flat/wall-mounted,
+060252BE,STAT,aaaWFPAFVaultLaunchControlSign,fusemiscresources/requirestextures/dungeons/vault/signage/vsignlaunchcontrol01.nif,72x32x18,exclude,flat/wall-mounted,
+060252C0,STAT,aaaWFPAFVaultLaundrySign,fusemiscresources/requirestextures/dungeons/vault/signage/vsignlaundryr01.nif,72x32x18,exclude,flat/wall-mounted,
+060252C2,STAT,aaaWFPAFVaultGeneratorsSign,fusemiscresources/requirestextures/dungeons/vault/signage/vsigngeneratorsr01.nif,72x32x18,exclude,flat/wall-mounted,
+060252C4,STAT,aaaWFPAFAmericanFlag,fusemiscresources/requirestextures/clutter/flags/flagusa_static.nif,337x0x222,exclude,flat/wall-mounted,
+060252C6,STAT,aaaWFPAFChineseFlag,fusemiscresources/requirestextures/clutter/flags/flagchina_static.nif,337x0x222,exclude,flat/wall-mounted,
+060252C8,STAT,aaaWFPAFFramedChineseFlag,fusemiscresources/requirestextures/clutter/flags/flagchina_framed.nif,62x3x46,exclude,flat/wall-mounted,
+060252CA,STAT,aaaWFPAFTenpennyChandelier,fusemiscresources/clutter/chandelier/tenpennychandelierdark_on.nif,434x435x292,skip,no collision in mesh,no collision
+060252CC,STAT,aaaWFPAFHangingStreetLight,fusemiscresources/clutter/streetlight_hanging.nif,32x59x91,cut,,convert STATIC -> ANIMSTATIC
+060252CE,STAT,aaaWFPAFVacuumTubeLight,fusemiscresources/clutter/vacuumtubelight_off.nif,34x28x25,exclude,too small,
+060252D0,STAT,aaaWFPAFGardenLight,fusemiscresources/requirestextures/clutter/gardenlight.nif,46x44x80,cut,,convert STATIC -> ANIMSTATIC
+060252D2,STAT,aaaWFPAFControlPanel,fusemiscresources/clutter/controlpanel_on.nif,118x64x172,cut,,convert STATIC -> ANIMSTATIC
+060252D4,STAT,aaaWFPAFMainframe,fusemiscresources/clutter/mainframe01r_on.nif,176x280x186,cut,,convert STATIC -> ANIMSTATIC
+060252D6,STAT,aaaWFPAFSecurityShutters,fusemiscresources/requirestextures/clutter/security/security_shutters.nif,224x26x176,exclude,enterable building,
+060252D8,STAT,aaaWFPAFTelephone,fusemiscresources/clutter/phone/telephone_baseonly.nif,17x16x14,exclude,too small,
+060252DA,STAT,aaaWFPAFMannequin1,fusemiscresources/clutter/mannequin/mannequin01_eyed.nif,62x63x125,cut,,convert STATIC -> ANIMSTATIC
+060252DC,STAT,aaaWFPAFMannequin2,fusemiscresources/clutter/mannequin/mannequin02_eyed.nif,56x56x126,cut,,convert STATIC -> ANIMSTATIC
+060252DE,STAT,aaaWFPAFMannequin3,fusemiscresources/clutter/mannequin/mannequin04_eyed.nif,56x56x137,cut,,convert STATIC -> ANIMSTATIC
+060252E0,STAT,aaaWFPAFMannequin4,fusemiscresources/clutter/mannequin/mannequin06_eyed.nif,62x63x125,cut,,convert STATIC -> ANIMSTATIC
+060252E2,STAT,aaaWFPAFGolfBag,fusemiscresources/requirestextures/clutter/golfbag.nif,76x32x26,cut,,convert STATIC -> ANIMSTATIC
+060252E4,STAT,aaaWFPAFVipGolfBag,fusemiscresources/requirestextures/clutter/golfbag_vip.nif,76x32x26,cut,,convert STATIC -> ANIMSTATIC
+060252E6,STAT,aaaWFPAFMethylamineBarrel,fusemiscresources/requirestextures/clutter/methlyamine_barrel.nif,64x64x100,cut,,convert STATIC -> ANIMSTATIC
+060252E8,STAT,aaaWFPAFRedClothDrape1,fusemiscresources/requirestextures/clutter/redclothdrape01.nif,4x90x185,exclude,flat/wall-mounted,
+060252EA,STAT,aaaWFPAFRedClothDrape2,fusemiscresources/requirestextures/clutter/redclothdrape02.nif,4x90x185,exclude,flat/wall-mounted,
+060252EC,STAT,aaaWFPAFRolledBlueprint,fusemiscresources/clutter/blueprint_rolled.nif,6x6x48,exclude,flat/wall-mounted,
+060252EE,STAT,aaaWFPAFHotelBed,fusemiscresources/furniture/hotel_bed_empty.nif,138x162x97,cut,,convert STATIC -> ANIMSTATIC
+060252F0,STAT,aaaWFPAFSingleBed,fusemiscresources/furniture/subsinglebed_empty.nif,92x176x73,cut,,convert STATIC -> ANIMSTATIC
+060252F2,STAT,aaaWFPAFOldBabyCrib,fusemiscresources/furniture/babycrib01_old.nif,118x64x84,cut,,convert TRANSPARENT -> ANIMSTATIC
+060252F4,STAT,aaaWFPAFRuinedPoolTable,fusemiscresources/requirestextures/furniture/pooltable_ruined.nif,312x177x60,cut,,convert STATIC -> ANIMSTATIC
+060252F6,STAT,aaaWFPAFDirtyCouch,fusemiscresources/requirestextures/furniture/subcouchdirty01.nif,160x70x68,cut,,convert STATIC -> ANIMSTATIC
+060252F8,STAT,aaaWFPAFArmyMobileHome,fusemiscresources/requirestextures/vehicles/mobilehome/mobilehome_army.nif,1046x281x300,exclude,enterable building,
+060252FA,STAT,aaaWFPAFBlueMobileHome,fusemiscresources/requirestextures/vehicles/mobilehome/mobilehome_blue.nif,1046x281x300,exclude,enterable building,
+060252FC,STAT,aaaWFPAFRedMobileHome,fusemiscresources/requirestextures/vehicles/mobilehome/mobilehome_red.nif,1046x281x300,exclude,enterable building,
+060252FE,STAT,aaaWFPAFYellowMobileHome,fusemiscresources/requirestextures/vehicles/mobilehome/mobilehome_yellow.nif,1046x281x300,exclude,enterable building,
+06025300,STAT,aaaWFPAFMobileHomeHulk,fusemiscresources/requirestextures/vehicles/mobilehome/mobilehome_hulk.nif,1046x281x300,exclude,enterable building,
+06025302,STAT,aaaWFPAFDisposalTruck,fusemiscresources/vehicles/truck_nmdisposal.nif,602x246x230,cut,,convert STATIC -> ANIMSTATIC
+06025304,STAT,aaaWFPAFFalloutShelterEntrance,fusemiscresources/requirestextures/architecture/urban/falloutshelter_entrance.nif,512x881x289,exclude,enterable building,
+06025306,STAT,aaaWFPAFMissileSilo,fusemiscresources/architecture/silo_static.nif,1185x1185x104,cut,,convert STATIC -> ANIMSTATIC
+06027D37,ACTI,aaaWFTrainYard,dungeons/nvhooverdam/nvhooverdamsecuritycheckpointsandbagbench.nif,0x0x0,exclude,flat/wall-mounted,
+06027D39,ACTI,aaaWFTrainClass,clutter/school/chalkboard01.nif,164x17x92,exclude,walkable surface,
+06027D3B,ACTI,aaaWFTrainLounge,clutter/billiards/pooltable.nif,311x176x58,cut,,vanilla (need BSA)
+06029532,ACTI,aaaWFPAArcadeFallout,wastelandforts/custom/arcadefallout.nif,48x57x125,cut,,convert STATIC -> ANIMSTATIC
+06029534,ACTI,aaaWFPAArcadeTactics,wastelandforts/custom/arcadetactics.nif,48x57x125,cut,,convert STATIC -> ANIMSTATIC
+06029536,ACTI,aaaWFPASierraVend,nvdlc01/clutter/vendingartdeco/nvdlc01vendingartdeco.nif,80x46x138,cut,,vanilla (need BSA)
+0602C551,STAT,aaaWFPAVElijahSHologramProjector,nvdlc01/clutter/nvdlc01_elijah-projector/nvdlc01_elijah-projector.nif,126x148x228,exclude,walkable surface,
+0602C553,STAT,aaaWFPAVSierraMadreHoloEmitter,nvdlc01/clutter/holoemitter/nvdlc01holoemitter.nif,26x26x18,exclude,too small,
+0602C555,STAT,aaaWFPAVSierraMadreSlotMachine,nvdlc01/clutter/casino/nvdlc01_slotmachinestatic.nif,40x32x59,cut,,vanilla (need BSA)
+0602C557,STAT,aaaWFPAVSierraMadreSign,nvdlc01/clutter/smsign/nvdlc01smsign.nif,56x372x242,exclude,flat/wall-mounted,
+0602C559,STAT,aaaWFPAVVeraKeyesStarSign,nvdlc01/clutter/signs/nvdlc01verastarsign.nif,32x0x31,exclude,flat/wall-mounted,
+0602C55B,STAT,aaaWFPAVDeanDominoStarSign,nvdlc01/clutter/signs/nvdlc01deanstarsign.nif,32x0x31,exclude,flat/wall-mounted,
+0602C55D,STAT,aaaWFPAVVillaPoliceNeonSign,nvdlc01/clutter/signs/nvdlc01clinicpolicesign.nif,80x20x101,exclude,flat/wall-mounted,
+0602C55F,STAT,aaaWFPAVVillaClinicNeonSign,nvdlc01/clutter/signs/nvdlc01clinicneonsign.nif,113x24x96,exclude,flat/wall-mounted,
+0602C561,STAT,aaaWFPAVVillaCafeSign,nvdlc01/clutter/signs/nvdlc01signcafe.nif,9x92x63,exclude,flat/wall-mounted,
+0602C563,STAT,aaaWFPAVVillaBarSign,nvdlc01/clutter/signs/nvdlc01signbar.nif,9x93x63,exclude,flat/wall-mounted,
+0602C565,STAT,aaaWFPAVVillaGiftShopSign,nvdlc01/clutter/signs/nvdlc01signgift.nif,9x93x63,exclude,flat/wall-mounted,
+0602C567,STAT,aaaWFPAVSierraMadreWallFountain,nvdlc01/clutter/wallfountain/nvdlc01wallfountain.nif,80x74x108,cut,,vanilla (need BSA)
+0602C569,STAT,aaaWFPAVArtDecoDesk,nvdlc01/clutter/deskartdeco/nvdlc01deskartdeco.nif,126x60x77,cut,,vanilla (need BSA)
+0602C56B,STAT,aaaWFPAVSierraMadreSofa,nvdlc01/furniture/nvdlc01sofa.nif,157x69x77,cut,,vanilla (need BSA)
+0602C56D,STAT,aaaWFPAVSierraMadreArmchair,nvdlc01/furniture/nvdlc01chair.nif,33x34x67,exclude,too small,
+0602C56F,STAT,aaaWFPAVSierraMadreBed,nvdlc01/furniture/nvdlc01bed.nif,183x168x126,cut,,vanilla (need BSA)
+0602C571,STAT,aaaWFPAVClothingRack,nvdlc01/clutter/nvdlc01clothingrack.nif,40x110x122,cut,,vanilla (need BSA)
+0602C573,STAT,aaaWFPAVArtDecoFoldingScreen,nvdlc01/clutter/screen/nvdlc01_screentriple.nif,147x44x160,cut,,vanilla (need BSA)
+0602C575,STAT,aaaWFPAVVillaLantern,clutter/graves/gravelantern.nif,10x14x27,exclude,too small,
+0602C577,STAT,aaaWFPAVVillaHangingLamp,nvdlc01/clutter/lights/nvdlc01hanginglamp.nif,39x39x48,exclude,too small,
+0602C579,STAT,aaaWFPAVIronSconce,nvdlc01/clutter/lights/nvdlc01ironsconce01.nif,30x36x51,exclude,too small,
+0602C57B,STAT,aaaWFPAVSuitesSconce,nvdlc01/clutter/lights/nvdlc01_suitessconceon.nif,106x18x99,cut,,vanilla (need BSA)
+0602C57D,STAT,aaaWFPAVStarletPortrait,nvdlc01/clutter/nvdlc01starletpicture.nif,28x6x18,exclude,flat/wall-mounted,
+0602C57F,STAT,aaaWFPAVTheaterStageCurtain,nvdlc01/clutter/curtains/nvdlc01theaterstagecurtain01.nif,928x19x156,cut,,vanilla (need BSA)
+0602C581,STAT,aaaWFPAVVillaChalkboard,nvdlc01/clutter/nvdlc01chalkboard/nvdlc01_chalkboard.nif,12x326x152,exclude,walkable surface,
+0602C583,STAT,aaaWFPAVSierraMadreHotPlate,nvdlc01/clutter/nvdlc01_craftinghotplate/nvdlc01_craftinghotplate.nif,28x32x24,exclude,too small,
+0602C585,STAT,aaaWFPAVDinerBooth,furniture/dinerbooth02.nif,63x42x67,cut,,vanilla (need BSA)
+0602C587,STAT,aaaWFPAVSierraMadreTerminalDesk,nvdlc01/terminals/nvdlc01_terminaldesk01.nif,42x40x37,cut,,vanilla (need BSA)
+0602C589,STAT,aaaWFPAVWhiteLegsHeadPike,nvdlc02/clutter/nvdlc02_headpike/nvdlc02_headpike_whiteleg_01.nif,16x18x193,exclude,too small,
+0602C58B,STAT,aaaWFPAVPaintedBrahminSkull,nvdlc02/clutter/skeleton/nvdlc02paintedbrahminskull.nif,29x38x26,exclude,too small,
+0602C58D,STAT,aaaWFPAVCrashedPlaneWreck,nvdlc02/vehicles/nvdlc02_complanecrashedparts.nif,473x708x167,exclude,enterable building,
+0602C58F,STAT,aaaWFPAVCeilingFan,nvdlc02/clutter/nvdlc02ceilingfan.nif,195x220x49,cut,,vanilla (need BSA)
+0602C591,STAT,aaaWFPAVSorrowsClayPot,nvdlc02/clutter/junk/nvdlc02claypot02.nif,26x26x29,exclude,too small,
+0602C593,STAT,aaaWFPAVBighornerHideBed,nvdlc02/clutter/nvdlc02_bighornerhidebed.nif,135x182x8,exclude,walkable surface,
+0602C595,STAT,aaaWFPAVSwampBed,nvdlc02/clutter/nvdlc02swampbed01.nif,104x132x70,cut,,vanilla (need BSA)
+0602C597,STAT,aaaWFPAVSurvivalistJunkTent,nvdlc02/clutter/junktents/nvdlc01junktent04.nif,231x158x154,exclude,enterable building,
+0602C599,STAT,aaaWFPAVZionTrailSignPost,nvdlc02/clutter/signs/nvdlc02signposttall.nif,8x8x208,exclude,flat/wall-mounted,
+0602C59B,STAT,aaaWFPAVZionValleySign,nvdlc02/clutter/signs/nvdlc02zionvalleyposter01.nif,30x40x0,exclude,flat/wall-mounted,
+0602C59D,STAT,aaaWFPAVZionCampgroundSign,nvdlc02/clutter/signs/nvdlc02trailsncamper.nif,30x0x32,exclude,flat/wall-mounted,
+0602C59F,STAT,aaaWFPAVBattleBrewStill,dlc04/clutter/moonshine/dlc04moonshinedistillery01.nif,160x110x124,cut,,vanilla (need BSA)
+0602C5A1,STAT,aaaWFPAVBigMtJukebox,clutter/jukebox/jukeboxdirty01.nif,86x44x134,cut,,vanilla (need BSA)
+0602C5A3,STAT,aaaWFPAVStealthSuitDiagramTable,nvdlc03/clutter/nvdlc03stealthsuitdiagram01.nif,190x124x64,cut,,vanilla (need BSA)
+0602C5A5,STAT,aaaWFPAVBigMtSatellite,nvdlc03/clutter/nvdlc03_satellite/nvdlc03_satellite.nif,602x445x224,cut,,vanilla (need BSA)
+0602C5A7,STAT,aaaWFPAVBodyPartTank,nvdlc03/clutter/bodyparttank/nvdlc03bodyparttank.nif,126x123x183,cut,,vanilla (need BSA)
+0602C5A9,STAT,aaaWFPAVBigMtDisplayCase,nvdlc03/clutter/nvdlc03displaycase01.nif,44x28x55,cut,,vanilla (need BSA)
+0602C5AB,STAT,aaaWFPAVBigMtMannequin,nvdlc03/clutter/mannequins/nvdlc03mannequin07.nif,56x56x109,cut,,vanilla (need BSA)
+0602C5AD,STAT,aaaWFPAVBigMtFloorLamp,nvdlc03/clutter/lights/nvdlc03floorlamp.nif,39x39x160,exclude,too small,
+0602C5AF,STAT,aaaWFPAVDeactivatedMisterGutsy,nvdlc03/clutter/deadrobots/nvdlc03mrgutsystatic.nif,238x186x70,cut,,vanilla (need BSA)
+0602C5B1,STAT,aaaWFPAVDeactivatedSentryBot,nvdlc03/clutter/deadrobots/nvdlc03sentrybotstatic.nif,115x156x160,cut,,vanilla (need BSA)
+0602C5B3,STAT,aaaWFPAVDeactivatedMisterOrderly,nvdlc03/clutter/deadrobots/nvdlc03mrorderlytatic.nif,238x186x70,cut,,vanilla (need BSA)
+0602C5B5,STAT,aaaWFPAVDeactivatedRobobrain,nvdlc03/clutter/nvdlc03robobrainstatic.nif,396x228x418,cut,,vanilla (need BSA)
+0602C5B7,STAT,aaaWFPAVBigMtMainframe,nvdlc03/clutter/consoles/nvdlc03mainframe01.nif,195x314x185,cut,,vanilla (need BSA)
+0602C5B9,STAT,aaaWFPAVThinkTankOperatingLight,nvdlc03/clutter/nvdlc03operatinglight.nif,136x112x68,cut,,vanilla (need BSA)
+0602C5BB,STAT,aaaWFPAVAutoDocSawArm,nvdlc03/clutter/nvdlc03medicalsawanimated.nif,55x24x120,exclude,enterable building,
+0602C5BD,STAT,aaaWFPAVCyberdogGunHologram,nvdlc03/clutter/nvdlc03cyberdoggunhologram/nvdlc03cyberdoggunhologram.nif,98x31x44,cut,,vanilla (need BSA)
+0602C5BF,STAT,aaaWFPAVY17KennelCage,nvdlc03/clutter/nvdlc03kennelcage01.nif,192x104x101,cut,,vanilla (need BSA)
+0602C5C1,STAT,aaaWFPAVEnclaveCommTower,clutter/enclaveencampment/enclavecomtower.nif,393x238x509,exclude,enterable building,
+0602C5C3,STAT,aaaWFPAVBigMtCoffin,nvdlc03/clutter/nvdlc03coffin02.nif,142x66x31,cut,,vanilla (need BSA)
+0602C5C5,STAT,aaaWFPAVPainterSEasel,nvdlc03/clutter/nvdlc03easel.nif,104x66x165,cut,,vanilla (need BSA)
+0602C5C7,STAT,aaaWFPAVZ43FacilitySign,nvdlc03/clutter/signs/nvdlc03extsign06z43.nif,166x24x186,exclude,flat/wall-mounted,
+0602C5C9,STAT,aaaWFPAVX12FacilitySign,nvdlc03/clutter/signs/nvdlc03extsign01x12.nif,166x24x184,exclude,flat/wall-mounted,
+0602C5CB,STAT,aaaWFPAVX13Sign,nvdlc03/clutter/signs/nvdlc03x13sign09x13.nif,66x0x26,exclude,flat/wall-mounted,
+0602C5CD,STAT,aaaWFPAVBigMtGardenLight,nvdlc03/clutter/nvdlc03_gardenlight.nif,44x44x79,cut,,vanilla (need BSA)
+0602C5CF,STAT,aaaWFPAVWalkingEyeSculpture,nvdlc03/clutter/nvdlc03walkingeye.nif,103x110x82,cut,,vanilla (need BSA)
+0602C5D1,STAT,aaaWFPAVHangingHazmatSuit,nvdlc03/clutter/ghosthoodlesshangingmesh/nvdlc03ghosthoodlesshangingmesh.nif,84x27x109,cut,,vanilla (need BSA)
+0602C5D3,STAT,aaaWFPAVBigMtSatelliteDish,nvdlc03/clutter/nvdlc03satellitedish01.nif,126x106x219,cut,,vanilla (need BSA)
+0602C5D5,STAT,aaaWFPAVDivideFireTruck,nvdlc04/vehicles/nvdlc04_firetruck.nif,690x244x276,cut,,vanilla (need BSA)
+0602C5D7,STAT,aaaWFPAVArmyTruckLightsOn,nvdlc04/vehicles/nvdlc04truckarmy02staticlighton.nif,821x260x283,cut,,vanilla (need BSA)
+0602C5D9,STAT,aaaWFPAVBusWreck,nvdlc04/vehicles/nvdlc04bushulkfrontstatic01.nif,245x667x288,cut,,vanilla (need BSA)
+0602C5DB,STAT,aaaWFPAVDivideSentryBot,nvdlc04/clutter/nvdlc04_static-sentrybot/nvdlc04_static-sentrybot.nif,102x133x136,cut,,vanilla (need BSA)
+0602C5DD,STAT,aaaWFPAVEdEPrototype,nvdlc04/clutter/nvdlc04_ede-pod/nvdlc04_edestatic.nif,54x65x84,cut,,vanilla (need BSA)
+0602C5DF,STAT,aaaWFPAVEdEPod,nvdlc04/clutter/nvdlc04_ede-pod/nvdlc04_ede-pod-t.nif,164x164x265,cut,,vanilla (need BSA)
+0602C5E1,STAT,aaaWFPAVNuclearWarhead,nvdlc04/clutter/rocket/nvdlc04warheadside.nif,270x206x384,cut,,vanilla (need BSA)
+0602C5E3,STAT,aaaWFPAVDivideWarheadUpright,nvdlc04/clutter/rocket/nvdlc04warhead.nif,206x206x271,cut,,vanilla (need BSA)
+0602C5E5,STAT,aaaWFPAVRedGlareDisplay,nvdlc04/clutter/nvdlc04_red-glare-static/nvdlc04_red-glare-static.nif,27x92x22,cut,,vanilla (need BSA)
+0602C5E7,STAT,aaaWFPAVNukedLegionBoat,vehicles/boat03d.nif,122x248x54,cut,,vanilla (need BSA)
+0602C5E9,STAT,aaaWFPAVDivideDefenseSeal,nvdlc04/clutter/nvdlc04defenseseal.nif,282x282x0,exclude,walkable surface,
+0602C5EB,STAT,aaaWFPAVOverpassHighwaySign,nvdlc04/clutter/overpasssigns/nvdlc04overpasssign05.nif,85x317x167,exclude,flat/wall-mounted,
+0602C5ED,STAT,aaaWFPAVAshtonSiloSign,nvdlc04/clutter/signs/nvdlc04silosignashton01.nif,74x9x104,exclude,flat/wall-mounted,
+0602C5EF,STAT,aaaWFPAVNavarroVertibird,vehicles/nvnavarrovertibirdstatic.nif,1206x933x466,exclude,enterable building,
+0602C5F1,STAT,aaaWFPAVHeliosOneBillboard,clutter/billboards/billboardheliosnv.nif,932x257x663,exclude,walkable surface,
+0602C5F3,STAT,aaaWFPAVFancyLadsBillboard,clutter/billboards/billboard08b.nif,221x1024x915,exclude,walkable surface,
+0602C5F5,STAT,aaaWFPAVSearchlight,clutter/spotlight/spotlightnv.nif,86x117x85,cut,,vanilla (need BSA)
+0602C5F7,STAT,aaaWFPAVSunsetSarsaparillaNeonSign,clutter/signs/nvssneonsign.nif,104x6x83,exclude,flat/wall-mounted,
+0602C5F9,STAT,aaaWFPAVOpen24HoursNeonSign,clutter/open_24hours_sign/nv_open-24-hours_sign.nif,23x106x84,exclude,flat/wall-mounted,
+0602C5FB,STAT,aaaWFPAVGunRunnersSign,clutter/signnv/nv_gunrunsign.nif,304x90x272,exclude,flat/wall-mounted,
+0602C5FD,STAT,aaaWFPAVAerotechSign,clutter/signnv/nv_aerosign.nif,374x83x120,exclude,flat/wall-mounted,
+0602C5FF,STAT,aaaWFPAVTopsCrapsTable,clutter/casino/crapstabletops.nif,137x226x72,cut,,vanilla (need BSA)
+0602C601,STAT,aaaWFPAVCasinoTable,furniture/nv_casinotablea.nif,158x395x56,cut,,vanilla (need BSA)
+0602C603,STAT,aaaWFPAVSlotMachineCluster,clutter/casino/slotmachinetablecluster01.nif,218x38x108,cut,,vanilla (need BSA)
+0602C605,STAT,aaaWFPAVLucky38SlotMachine,clutter/casino/slot_machine01staticlucky38.nif,40x32x59,cut,,vanilla (need BSA)
+0602C607,STAT,aaaWFPAVTopsSlotMachine,clutter/casino/slot_machine01statictops.nif,40x32x59,cut,,vanilla (need BSA)
+0602C609,STAT,aaaWFPAVTopsCasinoRug,clutter/rugs/nvtopscasinorug.nif,234x208x0,exclude,walkable surface,
+0602C60B,STAT,aaaWFPAVLucky38Rug,clutter/rugs/nvlucky38rug01.nif,272x174x0,exclude,walkable surface,
+0602C60D,STAT,aaaWFPAVLegionBanner,furniture/nv_legionflag.nif,109x16x335,exclude,flat/wall-mounted,
+0602C60F,STAT,aaaWFPAVNcrFlag,clutter/flags/nv_ncr_flag_static.nif,336x0x222,exclude,flat/wall-mounted,
+0602C611,STAT,aaaWFPAVNevadaFlag,clutter/flags/nv_nevadaflag.nif,336x22x226,exclude,flat/wall-mounted,
+0602C613,STAT,aaaWFPAVBrahminRoastingSpit,furniture/nv_brahminspit.nif,259x172x236,cut,,vanilla (need BSA)
+0602C615,STAT,aaaWFPAVCaesarSBedroll,furniture/nv_bedroll_caesar.nif,79x179x7,cut,,vanilla (need BSA)
+0602C617,STAT,aaaWFPAVFloorLamp,clutter/lights/floorlamp.nif,168x168x157,exclude,walkable surface,
+0602C619,STAT,aaaWFPAVOrangeMoroccanLantern,clutter/lights/moroccanlanternorange.nif,72x82x385,cut,,vanilla (need BSA)
+0602C61B,STAT,aaaWFPAVStageLight,clutter/lights/nvstagelight01on.nif,20x22x28,exclude,too small,
+0602C61D,STAT,aaaWFPAVLaundromatWashingMachines,clutter/nvwashingmachineblock.nif,74x58x14,cut,,vanilla (need BSA)
+0602C61F,STAT,aaaWFPAVJacobstownSign,clutter/jacobstown/jacobstownsign.nif,584x154x999,exclude,flat/wall-mounted,
+0602C621,STAT,aaaWFPAVGoodspringsSign,clutter/signnv/nv_signgoodsprings.nif,276x27x206,exclude,flat/wall-mounted,
+0602C623,STAT,aaaWFPAVGreatKhansSign,clutter/signnv/nv_sign_khan.nif,78x14x185,exclude,flat/wall-mounted,
+0602C625,STAT,aaaWFPAVRedRockCanyonSign,clutter/signnv/nv_sign_redrock.nif,316x186x279,exclude,flat/wall-mounted,
+0602C627,STAT,aaaWFPAVCampGuardianSign,clutter/campguardiansign/campguardiansign.nif,180x6x170,exclude,flat/wall-mounted,
+0602C629,STAT,aaaWFPAVLucky38Poster,clutter/posters/nvlucky38poster01.nif,14x166x200,exclude,flat/wall-mounted,
+0602C62B,STAT,aaaWFPAVTheTopsPoster,clutter/posters/nvtopsposter01.nif,3x71x85,exclude,flat/wall-mounted,
+0602C62D,STAT,aaaWFPAVGomorrahPoster,clutter/nv_gamorrah/nvgomorrahposter01.nif,14x328x167,exclude,flat/wall-mounted,
+0602C62F,STAT,aaaWFPAVSierraMadrePoster,clutter/posters/sierraposter01.nif,92x0x120,exclude,flat/wall-mounted,
+0602C631,STAT,aaaWFPAVDefacedKimballPortrait,clutter/posters/kimblepaintings/kimbleportraitdefaced.nif,86x106x1,exclude,flat/wall-mounted,
+0602C633,STAT,aaaWFPAVPitchingMachine,traps/pitchingmachine01.nif,53x68x118,cut,,vanilla (need BSA)
+0602C635,STAT,aaaWFPAVIndustrialMachine,clutter/industrialmachines/industrialmachine02.nif,594x386x197,cut,,vanilla (need BSA)
+0602C637,STAT,aaaWFPAVFlatbedTruck,vehicles/truckflatbed.nif,690x244x242,cut,,vanilla (need BSA)
+0602C639,STAT,aaaWFPAVHighwayPatrolCarAlt,vehicles/nv_nhp-patrol-caraltc.nif,186x372x130,cut,,vanilla (need BSA)
+0602C63B,STAT,aaaWFPAVHotelQueenBed,furniture/hotel/hotelqueenbed01.nif,138x160x96,cut,,vanilla (need BSA)
+0602D251,STAT,aaaWFPAXmasGnome,wastelandforts/props2/xmasgnome/xmasgnome.nif,44x26x68,cut,,convert STATIC -> ANIMSTATIC
+0602D253,STAT,aaaWFPAXmasRudolph,wastelandforts/props2/xmasrudolph/xmasrudolph.nif,42x30x71,cut,,convert STATIC -> ANIMSTATIC
+0602D255,STAT,aaaWFPALibRustedMetalHut,wastelandforts/props2/librustedmetalhut/librustedmetalhut.nif,572x266x228,exclude,enterable building,
+0602D257,STAT,aaaWFPALibConcretePipe,wastelandforts/props2/libconcretepipe/libconcretepipe.nif,200x200x200,cut,,convert STATIC -> ANIMSTATIC
+0602D259,STAT,aaaWFPALibBehelit,wastelandforts/props2/libbehelit/libbehelit.nif,2x2x3,exclude,flat/wall-mounted,
+0602D25B,STAT,aaaWFPALibBigTire,wastelandforts/props2/libbigtire/libbigtire.nif,12x12x4,exclude,too small,
+0602D25D,STAT,aaaWFPALibCardboardBox,wastelandforts/props2/libcardboardbox/libcardboardbox.nif,8x4x2,exclude,flat/wall-mounted,
+0602D25F,STAT,aaaWFPALibJermaBust,wastelandforts/props2/libjermabust/libjermabust.nif,54x40x60,cut,,convert STATIC -> ANIMSTATIC
+0602D261,STAT,aaaWFPALibMoai,wastelandforts/props2/libmoai/libmoai.nif,104x92x160,cut,,convert STATIC -> ANIMSTATIC
+0602D263,STAT,aaaWFPALibPallet,wastelandforts/props2/libpallet/libpallet.nif,119x80x14,exclude,walkable surface,
+0602D265,STAT,aaaWFPALibFNVGameBox,wastelandforts/props2/libfnvgamebox/libfnvgamebox.nif,14x20x2,exclude,too small,
+0602D267,STAT,aaaWFPALibFallenLog1,wastelandforts/props2/libfallenlog1/libfallenlog1.nif,45x151x33,cut,,convert STATIC -> ANIMSTATIC
+0602D269,STAT,aaaWFPALibFallenLog2,wastelandforts/props2/libfallenlog2/libfallenlog2.nif,2x0x0,exclude,flat/wall-mounted,
+0602D26B,STAT,aaaWFPALibFallenLog3,wastelandforts/props2/libfallenlog3/libfallenlog3.nif,28x155x36,cut,,convert STATIC -> ANIMSTATIC
+0602D26D,STAT,aaaWFPALibZaxComputer,wastelandforts/props2/libzaxcomputer/libzaxcomputer.nif,248x181x206,cut,,convert STATIC -> ANIMSTATIC
+0602D26F,STAT,aaaWFPALibCar1,wastelandforts/props2/libcar1/libcar1.nif,471x245x143,cut,,convert STATIC -> ANIMSTATIC
+0602D271,STAT,aaaWFPALibCar2,wastelandforts/props2/libcar2/libcar2.nif,458x164x116,cut,,convert STATIC -> ANIMSTATIC
+0602D273,STAT,aaaWFPALibCar3,wastelandforts/props2/libcar3/libcar3.nif,459x185x133,cut,,convert STATIC -> ANIMSTATIC
+0602D275,STAT,aaaWFPALibCar4,wastelandforts/props2/libcar4/libcar4.nif,466x166x115,cut,,convert STATIC -> ANIMSTATIC
+0602D277,STAT,aaaWFPALibCar5,wastelandforts/props2/libcar5/libcar5.nif,607x236x130,cut,,convert STATIC -> ANIMSTATIC
+0602D279,STAT,aaaWFPALibCar6,wastelandforts/props2/libcar6/libcar6.nif,454x194x119,cut,,convert STATIC -> ANIMSTATIC
+0602D27B,STAT,aaaWFPALibCar7,wastelandforts/props2/libcar7/libcar7.nif,500x204x162,cut,,convert STATIC -> ANIMSTATIC
+0602D27D,STAT,aaaWFPALibCar8,wastelandforts/props2/libcar8/libcar8.nif,626x312x253,cut,,convert STATIC -> ANIMSTATIC
+0602D27F,STAT,aaaWFPALibCar9,wastelandforts/props2/libcar9/libcar9.nif,486x179x132,cut,,convert STATIC -> ANIMSTATIC
+0602D281,STAT,aaaWFPALibCar10,wastelandforts/props2/libcar10/libcar10.nif,458x174x123,cut,,convert STATIC -> ANIMSTATIC
+0602D283,STAT,aaaWFPALibCar11,wastelandforts/props2/libcar11/libcar11.nif,356x155x138,cut,,convert STATIC -> ANIMSTATIC
+0602D285,STAT,aaaWFPALibCar12,wastelandforts/props2/libcar12/libcar12.nif,462x182x145,cut,,convert STATIC -> ANIMSTATIC
+0602D287,STAT,aaaWFPALibCar13,wastelandforts/props2/libcar13/libcar13.nif,475x182x142,cut,,convert STATIC -> ANIMSTATIC
+0602D289,STAT,aaaWFPALibCar14,wastelandforts/props2/libcar14/libcar14.nif,499x194x144,cut,,convert STATIC -> ANIMSTATIC
+0602D28B,STAT,aaaWFPALibCar15,wastelandforts/props2/libcar15/libcar15.nif,520x200x178,cut,,convert STATIC -> ANIMSTATIC
+0602D28D,STAT,aaaWFPALibCar16,wastelandforts/props2/libcar16/libcar16.nif,558x207x184,cut,,convert STATIC -> ANIMSTATIC
+0602D28F,STAT,aaaWFPALibCar17,wastelandforts/props2/libcar17/libcar17.nif,552x266x141,cut,,convert STATIC -> ANIMSTATIC
+0602D291,STAT,aaaWFPALibCar18,wastelandforts/props2/libcar18/libcar18.nif,512x252x214,cut,,convert STATIC -> ANIMSTATIC
+0602D293,ACTI,aaaWFPAGoldSkull1,wastelandforts/props2/goldskull1/goldskull1.nif,18x18x27,exclude,too small,
+0602D295,ACTI,aaaWFPAGoldSkull2,wastelandforts/props2/goldskull2/goldskull2.nif,18x18x27,exclude,too small,
+0602D297,ACTI,aaaWFPAGoldSkull3,wastelandforts/props2/goldskull3/goldskull3.nif,18x18x27,exclude,too small,
+0602D299,ACTI,aaaWFPAGoldenGecko,wastelandforts/props2/goldengecko/goldengecko.nif,76x153x105,cut,,convert STATIC -> ANIMSTATIC
+0602D29B,ACTI,aaaWFPAPotOfGold,wastelandforts/props2/potofgold/potofgold.nif,22x24x17,exclude,too small,
+0602D29D,ACTI,aaaWFPAGnome00,wastelandforts/props2/gnome00/gnome00.nif,24x18x53,exclude,too small,
+0602D29F,ACTI,aaaWFPAGnome01,wastelandforts/props2/gnome01/gnome01.nif,24x18x53,exclude,too small,
+0602D2A1,ACTI,aaaWFPAGnome02,wastelandforts/props2/gnome02/gnome02.nif,24x20x53,exclude,too small,
+0602D2A3,ACTI,aaaWFPAGnome03,wastelandforts/props2/gnome03/gnome03.nif,26x26x53,exclude,too small,
+0602D2A5,ACTI,aaaWFPAGnome04,wastelandforts/props2/gnome04/gnome04.nif,24x20x53,exclude,too small,
+0602D2A7,ACTI,aaaWFPAGnome05,wastelandforts/props2/gnome05/gnome05.nif,24x18x45,exclude,too small,
+0602D2A9,ACTI,aaaWFPAGnome06,wastelandforts/props2/gnome06/gnome06.nif,24x22x45,exclude,too small,
+0602D2AB,ACTI,aaaWFPAGnome07,wastelandforts/props2/gnome07/gnome07.nif,26x26x45,exclude,too small,
+0602D2AD,ACTI,aaaWFPAGnome08,wastelandforts/props2/gnome08/gnome08.nif,24x22x61,exclude,too small,
+0602D2AF,ACTI,aaaWFPAGnome09,wastelandforts/props2/gnome09/gnome09.nif,24x22x61,exclude,too small,
+0602D2B1,ACTI,aaaWFPAGnome10,wastelandforts/props2/gnome10/gnome10.nif,24x20x50,exclude,too small,
+0602D2B3,ACTI,aaaWFPAGnome11,wastelandforts/props2/gnome11/gnome11.nif,26x26x50,exclude,too small,
+0602D2B5,ACTI,aaaWFPAGnome12,wastelandforts/props2/gnome12/gnome12.nif,24x22x54,exclude,too small,
+0602D2B7,ACTI,aaaWFPAGnome13,wastelandforts/props2/gnome13/gnome13.nif,24x22x54,exclude,too small,
+0602D2B9,ACTI,aaaWFPAGnome14,wastelandforts/props2/gnome14/gnome14.nif,26x22x54,exclude,too small,
+0602D2BB,STAT,aaaWFPAPillory,wastelandforts/props2/pillory/pillory.nif,22x122x106,cut,,convert ANIMSTATIC/STATIC -> ANIMSTATIC
+0602D2BD,STAT,aaaWFPARugAtomrug,wastelandforts/props2/rugatomrug/rugatomrug.nif,256x254x0,exclude,walkable surface,
+0602D2BF,STAT,aaaWFPARugBosrug,wastelandforts/props2/rugbosrug/rugbosrug.nif,256x254x0,exclude,walkable surface,
+0602D2C1,STAT,aaaWFPARugCprug,wastelandforts/props2/rugcprug/rugcprug.nif,256x254x0,exclude,walkable surface,
+0602D2C3,STAT,aaaWFPARugEnclaverug,wastelandforts/props2/rugenclaverug/rugenclaverug.nif,256x254x0,exclude,walkable surface,
+0602D2C5,STAT,aaaWFPARugFotarug,wastelandforts/props2/rugfotarug/rugfotarug.nif,256x254x0,exclude,walkable surface,
+0602D2C7,STAT,aaaWFPARugHhtrug,wastelandforts/props2/rughhtrug/rughhtrug.nif,256x254x0,exclude,walkable surface,
+0602D2C9,STAT,aaaWFPARugKingsrug,wastelandforts/props2/rugkingsrug/rugkingsrug.nif,256x254x0,exclude,walkable surface,
+0602D2CB,STAT,aaaWFPARugKingsrug02,wastelandforts/props2/rugkingsrug02/rugkingsrug02.nif,256x254x0,exclude,walkable surface,
+0602D2CD,STAT,aaaWFPARugLegionrug,wastelandforts/props2/ruglegionrug/ruglegionrug.nif,256x254x0,exclude,walkable surface,
+0602D2CF,STAT,aaaWFPARugLimerug01,wastelandforts/props2/ruglimerug01/ruglimerug01.nif,256x254x0,exclude,walkable surface,
+0602D2D1,STAT,aaaWFPARugLimerug02,wastelandforts/props2/ruglimerug02/ruglimerug02.nif,256x254x0,exclude,walkable surface,
+0602D2D3,STAT,aaaWFPARugLimerug03,wastelandforts/props2/ruglimerug03/ruglimerug03.nif,256x254x0,exclude,walkable surface,
+0602D2D5,STAT,aaaWFPARugLimerug04,wastelandforts/props2/ruglimerug04/ruglimerug04.nif,256x254x0,exclude,walkable surface,
+0602D2D7,STAT,aaaWFPARugLimerug05,wastelandforts/props2/ruglimerug05/ruglimerug05.nif,256x254x0,exclude,walkable surface,
+0602D2D9,STAT,aaaWFPARugLimerug06,wastelandforts/props2/ruglimerug06/ruglimerug06.nif,256x254x0,exclude,walkable surface,
+0602D2DB,STAT,aaaWFPARugLimerug07,wastelandforts/props2/ruglimerug07/ruglimerug07.nif,256x254x0,exclude,walkable surface,
+0602D2DD,STAT,aaaWFPARugLimerug08,wastelandforts/props2/ruglimerug08/ruglimerug08.nif,256x254x0,exclude,walkable surface,
+0602D2DF,STAT,aaaWFPARugLimerug09,wastelandforts/props2/ruglimerug09/ruglimerug09.nif,256x254x0,exclude,walkable surface,
+0602D2E1,STAT,aaaWFPARugLimerug10,wastelandforts/props2/ruglimerug10/ruglimerug10.nif,256x254x0,exclude,walkable surface,
+0602D2E3,STAT,aaaWFPARugLimerug11,wastelandforts/props2/ruglimerug11/ruglimerug11.nif,256x254x0,exclude,walkable surface,
+0602D2E5,STAT,aaaWFPARugLimerug12,wastelandforts/props2/ruglimerug12/ruglimerug12.nif,256x254x0,exclude,walkable surface,
+0602D2E7,STAT,aaaWFPARugLimerug13,wastelandforts/props2/ruglimerug13/ruglimerug13.nif,256x254x0,exclude,walkable surface,
+0602D2E9,STAT,aaaWFPARugLimerug14,wastelandforts/props2/ruglimerug14/ruglimerug14.nif,256x254x0,exclude,walkable surface,
+0602D2EB,STAT,aaaWFPARugLimerug15,wastelandforts/props2/ruglimerug15/ruglimerug15.nif,256x254x0,exclude,walkable surface,
+0602D2ED,STAT,aaaWFPARugNukacaprug,wastelandforts/props2/rugnukacaprug/rugnukacaprug.nif,256x254x0,exclude,walkable surface,
+0602D2EF,STAT,aaaWFPARugPlarug,wastelandforts/props2/rugplarug/rugplarug.nif,256x254x0,exclude,walkable surface,
+0602D2F1,STAT,aaaWFPARugRkrug,wastelandforts/props2/rugrkrug/rugrkrug.nif,256x254x0,exclude,walkable surface,
+0602D2F3,STAT,aaaWFPARugRobcorug,wastelandforts/props2/rugrobcorug/rugrobcorug.nif,256x254x0,exclude,walkable surface,
+0602D2F5,STAT,aaaWFPARugTaloncorug,wastelandforts/props2/rugtaloncorug/rugtaloncorug.nif,256x254x0,exclude,walkable surface,
+0602D2F7,STAT,aaaWFPARugUsflagrug,wastelandforts/props2/rugusflagrug/rugusflagrug.nif,256x254x0,exclude,flat/wall-mounted,
+0602D2F9,STAT,aaaWFPARugUwrug01,wastelandforts/props2/ruguwrug01/ruguwrug01.nif,256x254x0,exclude,walkable surface,
+0602D2FB,STAT,aaaWFPARugUwrug02,wastelandforts/props2/ruguwrug02/ruguwrug02.nif,256x254x0,exclude,walkable surface,
+0602D2FD,STAT,aaaWFPARugUwrug03,wastelandforts/props2/ruguwrug03/ruguwrug03.nif,256x254x0,exclude,walkable surface,
+0602D2FF,STAT,aaaWFPARugUwrug04,wastelandforts/props2/ruguwrug04/ruguwrug04.nif,256x254x0,exclude,walkable surface,
+0602D301,STAT,aaaWFPARugUwrug05,wastelandforts/props2/ruguwrug05/ruguwrug05.nif,256x254x0,exclude,walkable surface,
+0602D303,STAT,aaaWFPARugVaulttecrug,wastelandforts/props2/rugvaulttecrug/rugvaulttecrug.nif,256x254x0,exclude,walkable surface,
+0602D305,STAT,aaaWFPARugVtgearrug,wastelandforts/props2/rugvtgearrug/rugvtgearrug.nif,256x254x0,exclude,walkable surface,
+0602D307,ACTI,aaaWFPARadScanner,wastelandforts/props2/radscanner/radscanner.nif,32x58x184,cut,,convert STATIC -> ANIMSTATIC
+0602D309,ACTI,aaaWFPARadScannerVault,wastelandforts/props2/radscannervault/radscannervault.nif,32x58x184,cut,,convert STATIC -> ANIMSTATIC
+0602D30B,ACTI,aaaWFPABarrelBBQ,wastelandforts/props2/barrelbbq/barrelbbq.nif,107x72x111,cut,,convert STATIC -> ANIMSTATIC
+0602D30D,ACTI,aaaWFPAVendFood,wastelandforts/props2/vendfood/vendfood.nif,42x62x136,cut,,convert STATIC -> ANIMSTATIC
+0602D30F,ACTI,aaaWFPAVendPork,wastelandforts/props2/vendpork/vendpork.nif,42x52x136,cut,,convert STATIC -> ANIMSTATIC
+0602D311,ACTI,aaaWFPAMonoGarka,wastelandforts/props2/monogarka/monogarka.nif,269x278x357,cut,,ok as-is
+0602D313,STAT,aaaWFPAPosterKeepMum,wastelandforts/posters/posterkeepmum.nif,86x120x2,exclude,flat/wall-mounted,
+0602D315,STAT,aaaWFPAPosternavyheritage,wastelandforts/posters/posternavyheritage.nif,86x120x2,exclude,flat/wall-mounted,
+0602D317,STAT,aaaWFPAPosterVolSubService,wastelandforts/posters/postervolsubservice.nif,86x120x2,exclude,flat/wall-mounted,
+0602D319,STAT,aaaWFPAPosterJoinNavyTorpedo,wastelandforts/posters/posterjoinnavytorpedo.nif,86x120x2,exclude,flat/wall-mounted,
+0602D31B,STAT,aaaWFPAPosterAbleBodiedSeamen,wastelandforts/posters/posterablebodiedseamen.nif,86x120x2,exclude,flat/wall-mounted,
+0602D31D,STAT,aaaWFPAPosterActionSubmarineService,wastelandforts/posters/posteractionsubmarineservice.nif,86x120x2,exclude,flat/wall-mounted,
+0602D31F,STAT,aaaWFPAPosterAirDaleFly,wastelandforts/posters/posterairdalefly.nif,86x120x2,exclude,flat/wall-mounted,
+0602D321,STAT,aaaWFPAPosterAirforcePinUp,wastelandforts/posters/posterairforcepinup.nif,86x120x2,exclude,flat/wall-mounted,
+0602D323,STAT,aaaWFPAPosterAmericanCivilianDefense,wastelandforts/posters/posteramericanciviliandefense.nif,86x120x2,exclude,flat/wall-mounted,
+0602D325,STAT,aaaWFPAPosterAmericansFight,wastelandforts/posters/posteramericansfight.nif,86x120x2,exclude,flat/wall-mounted,
+0602D327,STAT,aaaWFPAPosterAttackAllFronts,wastelandforts/posters/posterattackallfronts.nif,86x120x2,exclude,flat/wall-mounted,
+0602D329,STAT,aaaWFPAPosterAttentionOil,wastelandforts/posters/posterattentionoil.nif,86x120x2,exclude,flat/wall-mounted,
+0602D32B,STAT,aaaWFPAPosterAussieFriend,wastelandforts/posters/posteraussiefriend.nif,86x120x2,exclude,flat/wall-mounted,
+0602D32D,STAT,aaaWFPAPosterBestJob,wastelandforts/posters/posterbestjob.nif,86x120x2,exclude,flat/wall-mounted,
+0602D32F,STAT,aaaWFPAPosterCallofDuty,wastelandforts/posters/postercallofduty.nif,86x120x2,exclude,flat/wall-mounted,
+0602D331,STAT,aaaWFPAPosterCanada,wastelandforts/posters/postercanada.nif,86x120x2,exclude,flat/wall-mounted,
+0602D333,STAT,aaaWFPAPosterCantmisswarbonds,wastelandforts/posters/postercantmisswarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D335,STAT,aaaWFPAPosterCarclub,wastelandforts/posters/postercarclub.nif,86x120x2,exclude,flat/wall-mounted,
+0602D337,STAT,aaaWFPAPosterCarelesswordcross,wastelandforts/posters/postercarelesswordcross.nif,86x120x2,exclude,flat/wall-mounted,
+0602D339,STAT,aaaWFPAPosterCarelesswordSink,wastelandforts/posters/postercarelesswordsink.nif,86x120x2,exclude,flat/wall-mounted,
+0602D33B,STAT,aaaWFPAPosterCarewarbonds,wastelandforts/posters/postercarewarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D33D,STAT,aaaWFPAPosterCarrymine,wastelandforts/posters/postercarrymine.nif,86x120x2,exclude,flat/wall-mounted,
+0602D33F,STAT,aaaWFPAPosterCoalLate,wastelandforts/posters/postercoallate.nif,86x120x2,exclude,flat/wall-mounted,
+0602D341,STAT,aaaWFPAPosterDestinationTokio,wastelandforts/posters/posterdestinationtokio.nif,86x120x2,exclude,flat/wall-mounted,
+0602D343,STAT,aaaWFPAPosterDieselSubs,wastelandforts/posters/posterdieselsubs.nif,86x120x2,exclude,flat/wall-mounted,
+0602D345,STAT,aaaWFPAPosterDoHisJob,wastelandforts/posters/posterdohisjob.nif,86x120x2,exclude,flat/wall-mounted,
+0602D347,STAT,aaaWFPAPosterDoubleUpHitler,wastelandforts/posters/posterdoubleuphitler.nif,86x120x2,exclude,flat/wall-mounted,
+0602D349,STAT,aaaWFPAPosterDowithLess,wastelandforts/posters/posterdowithless.nif,86x120x2,exclude,flat/wall-mounted,
+0602D34B,STAT,aaaWFPAPosterExtraBonds,wastelandforts/posters/posterextrabonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D34D,STAT,aaaWFPAPosterFightingandFood,wastelandforts/posters/posterfightingandfood.nif,86x120x2,exclude,flat/wall-mounted,
+0602D34F,STAT,aaaWFPAPosterFireandHell,wastelandforts/posters/posterfireandhell.nif,86x120x2,exclude,flat/wall-mounted,
+0602D351,STAT,aaaWFPAPosterFlagtogether,wastelandforts/posters/posterflagtogether.nif,86x120x2,exclude,flat/wall-mounted,
+0602D353,STAT,aaaWFPAPosterFlyThemWarBonds,wastelandforts/posters/posterflythemwarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D355,STAT,aaaWFPAPosterFlyWarBonds,wastelandforts/posters/posterflywarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D357,STAT,aaaWFPAPosterGiveitYourBest,wastelandforts/posters/postergiveityourbest.nif,86x120x2,exclude,flat/wall-mounted,
+0602D359,STAT,aaaWFPAPosterGrowYourOwn,wastelandforts/posters/postergrowyourown.nif,86x120x2,exclude,flat/wall-mounted,
+0602D35B,STAT,aaaWFPAPosterHesWatchingYou,wastelandforts/posters/posterheswatchingyou.nif,86x120x2,exclude,flat/wall-mounted,
+0602D35D,STAT,aaaWFPAPosterHoldWarBonds,wastelandforts/posters/posterholdwarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D35F,STAT,aaaWFPAPosterIHaveNotYetBegun,wastelandforts/posters/posterihavenotyetbegun.nif,86x120x2,exclude,flat/wall-mounted,
+0602D361,STAT,aaaWFPAPosterJoinCoastGuard,wastelandforts/posters/posterjoincoastguard.nif,86x120x2,exclude,flat/wall-mounted,
+0602D363,STAT,aaaWFPAPosterJointheATS,wastelandforts/posters/posterjointheats.nif,86x120x2,exclude,flat/wall-mounted,
+0602D365,STAT,aaaWFPAPosterJoinAcross,wastelandforts/posters/posterjoinacross.nif,86x120x2,exclude,flat/wall-mounted,
+0602D367,STAT,aaaWFPAPosterJointheWaves,wastelandforts/posters/posterjointhewaves.nif,86x120x2,exclude,flat/wall-mounted,
+0602D369,STAT,aaaWFPAPosterKeepTheFlying,wastelandforts/posters/posterkeeptheflying.nif,86x120x2,exclude,flat/wall-mounted,
+0602D36B,STAT,aaaWFPAPosterCarelessTalk,wastelandforts/posters/postercarelesstalk.nif,86x120x2,exclude,flat/wall-mounted,
+0602D36D,STAT,aaaWFPAPosterKeepTheFiring,wastelandforts/posters/posterkeepthefiring.nif,86x120x2,exclude,flat/wall-mounted,
+0602D36F,STAT,aaaWFPAPosterLooseLipsSinkShips,wastelandforts/posters/posterlooselipssinkships.nif,86x120x2,exclude,flat/wall-mounted,
+0602D371,STAT,aaaWFPAPosterLoosetalkSinkShips,wastelandforts/posters/posterloosetalksinkships.nif,86x120x2,exclude,flat/wall-mounted,
+0602D373,STAT,aaaWFPAPosterM1Talk,wastelandforts/posters/posterm1talk.nif,86x120x2,exclude,flat/wall-mounted,
+0602D375,STAT,aaaWFPAPosterManTheGuns,wastelandforts/posters/postermantheguns.nif,86x120x2,exclude,flat/wall-mounted,
+0602D377,STAT,aaaWFPAPosterManWarBonds,wastelandforts/posters/postermanwarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D379,STAT,aaaWFPAPosterMIAPOWNotForgotten,wastelandforts/posters/postermiapownotforgotten.nif,86x120x2,exclude,flat/wall-mounted,
+0602D37B,STAT,aaaWFPAPosterMIAPOWRadio,wastelandforts/posters/postermiapowradio.nif,86x120x2,exclude,flat/wall-mounted,
+0602D37D,STAT,aaaWFPAPosterMysterySubmarine,wastelandforts/posters/postermysterysubmarine.nif,86x120x2,exclude,flat/wall-mounted,
+0602D37F,STAT,aaaWFPAPosterNavy1902,wastelandforts/posters/posternavy1902.nif,86x120x2,exclude,flat/wall-mounted,
+0602D381,STAT,aaaWFPAPosterNavyAviation,wastelandforts/posters/posternavyaviation.nif,86x120x2,exclude,flat/wall-mounted,
+0602D383,STAT,aaaWFPAPosterNavyChow,wastelandforts/posters/posternavychow.nif,86x120x2,exclude,flat/wall-mounted,
+0602D385,STAT,aaaWFPAPosterNavyDay,wastelandforts/posters/posternavyday.nif,86x120x2,exclude,flat/wall-mounted,
+0602D387,STAT,aaaWFPAPosterNavyPinUp,wastelandforts/posters/posternavypinup.nif,86x120x2,exclude,flat/wall-mounted,
+0602D389,STAT,aaaWFPAPosterNaziAward,wastelandforts/posters/posternaziaward.nif,86x120x2,exclude,flat/wall-mounted,
+0602D38B,STAT,aaaWFPAPosterNaziBoot,wastelandforts/posters/posternaziboot.nif,86x120x2,exclude,flat/wall-mounted,
+0602D38D,STAT,aaaWFPAPosterNaziWarBonds,wastelandforts/posters/posternaziwarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D38F,STAT,aaaWFPAPosterNosub,wastelandforts/posters/posternosub.nif,86x120x2,exclude,flat/wall-mounted,
+0602D391,STAT,aaaWFPAPosterOperateSub,wastelandforts/posters/posteroperatesub.nif,86x120x2,exclude,flat/wall-mounted,
+0602D393,STAT,aaaWFPAPosterPOWBulletin,wastelandforts/posters/posterpowbulletin.nif,86x120x2,exclude,flat/wall-mounted,
+0602D395,STAT,aaaWFPAPosterRationYourShare,wastelandforts/posters/posterrationyourshare.nif,86x120x2,exclude,flat/wall-mounted,
+0602D397,STAT,aaaWFPAPosterRecruitIWantYouNavy,wastelandforts/posters/posterrecruitiwantyounavy.nif,86x120x2,exclude,flat/wall-mounted,
+0602D399,STAT,aaaWFPAPosterRedCrossCare,wastelandforts/posters/posterredcrosscare.nif,86x120x2,exclude,flat/wall-mounted,
+0602D39B,STAT,aaaWFPAPosterRedRing,wastelandforts/posters/posterredring.nif,86x120x2,exclude,flat/wall-mounted,
+0602D39D,STAT,aaaWFPAPosterRideAloneHitler,wastelandforts/posters/posterridealonehitler.nif,86x120x2,exclude,flat/wall-mounted,
+0602D39F,STAT,aaaWFPAPosterRussiaFriend,wastelandforts/posters/posterrussiafriend.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3A1,STAT,aaaWFPAPosterSailorProve,wastelandforts/posters/postersailorprove.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3A3,STAT,aaaWFPAPosterSamWarBonds,wastelandforts/posters/postersamwarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3A5,STAT,aaaWFPAPosterSaveRubber,wastelandforts/posters/postersaverubber.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3A7,STAT,aaaWFPAPosterScoutWarBonds,wastelandforts/posters/posterscoutwarbonds.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3A9,STAT,aaaWFPAPosterSinkaSub,wastelandforts/posters/postersinkasub.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3AB,STAT,aaaWFPAPosterSmashHitler,wastelandforts/posters/postersmashhitler.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3AD,STAT,aaaWFPAPosterSoManyOwed,wastelandforts/posters/postersomanyowed.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3AF,STAT,aaaWFPAPosterSqueezeInMore,wastelandforts/posters/postersqueezeinmore.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3B1,STAT,aaaWFPAPosterStuffFight,wastelandforts/posters/posterstufffight.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3B3,STAT,aaaWFPAPosterSubSpotted,wastelandforts/posters/postersubspotted.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3B5,STAT,aaaWFPAPosterSullivanBrothers,wastelandforts/posters/postersullivanbrothers.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3B7,STAT,aaaWFPAPosterTalkOfSacrifice,wastelandforts/posters/postertalkofsacrifice.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3B9,STAT,aaaWFPAPosterTellWhere,wastelandforts/posters/postertellwhere.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3BB,STAT,aaaWFPAPosterTimeSaved,wastelandforts/posters/postertimesaved.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3BD,STAT,aaaWFPAPosterUnitedNationsFight,wastelandforts/posters/posterunitednationsfight.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3BF,STAT,aaaWFPAPosterVictoryBondsHitler,wastelandforts/posters/postervictorybondshitler.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3C1,STAT,aaaWFPAPosterVietnamPOW,wastelandforts/posters/postervietnampow.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3C3,STAT,aaaWFPAPosterWarJobs,wastelandforts/posters/posterwarjobs.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3C5,STAT,aaaWFPAPosterYouDoForFreedom,wastelandforts/posters/posteryoudoforfreedom.nif,86x120x2,exclude,flat/wall-mounted,
+0602D3C7,ACTI,aaaWFPAWeatherStation,wastelandforts/fo4/weatherstation.nif,90x84x85,cut,,convert STATIC -> ANIMSTATIC
+0602D3C9,STAT,aaaWFPAAnemometer,wastelandforts/fo4/anemometer.nif,68x72x15,cut,,convert STATIC -> ANIMSTATIC
+0602D3CB,STAT,aaaWFPAWeatherVane,wastelandforts/fo4/weathervane.nif,36x2x14,exclude,flat/wall-mounted,
+0602D3CD,ACTI,aaaWFPAArcAlchemyStation,wastelandforts/fo4/arcanealchemytable.nif,150x66x115,cut,,convert STATIC -> ANIMSTATIC
+0602D3CF,ACTI,aaaWFPAArcAlchemyLab,wastelandforts/fo4/arcanealchemytablefancy.nif,158x72x149,cut,,convert STATIC -> ANIMSTATIC
+0602D3D1,ACTI,aaaWFPAArcAlchemyTable,wastelandforts/fo4/arcanealchemytableskyrim.nif,98x86x93,cut,,convert STATIC -> ANIMSTATIC
+0602D3D3,ACTI,aaaWFPAArcAlchemyCauldron,wastelandforts/fo4/arcanecauldron.nif,90x122x72,cut,,convert STATIC -> ANIMSTATIC
+0602D3D5,ACTI,aaaWFPAArcCookingCauldron,wastelandforts/fo4/arcanecauldroncook.nif,90x122x72,cut,,convert STATIC -> ANIMSTATIC
+0602D3D7,ACTI,aaaWFPAArcEnchanting,wastelandforts/fo4/arcaneenchantingtable.nif,102x82x112,cut,,convert STATIC -> ANIMSTATIC
+0602D3D9,ACTI,aaaWFPAMrRaccoon,wastelandforts/fo4/mrraccoon.nif,6x8x14,exclude,flat/wall-mounted,
+0602D3DB,STAT,aaaWFPAStatueDeathclaw,wastelandforts/statues/statuedeathclaw.nif,316x274x207,cut,,convert STATIC -> ANIMSTATIC
+0602D3DD,STAT,aaaWFPAStatueCazador,wastelandforts/statues/statuecazador.nif,221x158x118,cut,,convert STATIC -> ANIMSTATIC
+0602D3DF,STAT,aaaWFPAStatueGiantRadscorpion,wastelandforts/statues/statuegiantradscorpion.nif,208x293x174,cut,,convert STATIC -> ANIMSTATIC
+0602D3E1,STAT,aaaWFPAStatueNightstalker,wastelandforts/statues/statuenightstalker.nif,32x162x66,cut,,convert STATIC -> ANIMSTATIC
+0602D3E3,STAT,aaaWFPAStatueBighorner,wastelandforts/statues/statuebighorner.nif,70x145x122,cut,,convert STATIC -> ANIMSTATIC
+0602D3E5,STAT,aaaWFPAStatueBrahmin,wastelandforts/statues/statuebrahmin.nif,70x143x92,cut,,convert STATIC -> ANIMSTATIC
+0602D3E7,STAT,aaaWFPAStatueFireGecko,wastelandforts/statues/statuefiregecko.nif,76x127x104,cut,,convert STATIC -> ANIMSTATIC
+0602D3E9,STAT,aaaWFPAStatueGiantMantis,wastelandforts/statues/statuegiantmantis.nif,132x104x100,cut,,convert STATIC -> ANIMSTATIC
+0602D3EB,STAT,aaaWFPAStatueCoyote,wastelandforts/statues/statuecoyote.nif,32x139x73,cut,,convert STATIC -> ANIMSTATIC
+0602D3ED,STAT,aaaWFPAStatueSuperMutantBehemoth,wastelandforts/statues/statuesupermutantbehemoth.nif,255x128x244,cut,,convert STATIC -> ANIMSTATIC
+0602D3EF,STAT,aaaWFPAStatueLakelurk,wastelandforts/statues/statuelakelurk.nif,122x47x146,cut,,convert STATIC -> ANIMSTATIC
+0602D3F1,STAT,aaaWFPAStatueSecuritron,wastelandforts/statues/statuesecuritron.nif,145x86x187,cut,,convert STATIC -> ANIMSTATIC
+0602D3F3,STAT,aaaWFPAStatueGiantAnt,wastelandforts/statues/statuegiantant.nif,689x656x376,cut,,convert STATIC -> ANIMSTATIC
+0602D3F5,STAT,aaaWFPAStatueSporeCarrier,wastelandforts/statues/statuesporecarrier.nif,82x101x77,cut,,convert STATIC -> ANIMSTATIC
+0602D9F7,STAT,aaaWFPASchoolChalkboard,clutter/school/chalkboard01.nif,164x17x92,exclude,walkable surface,
+0602D9F9,STAT,aaaWFPASchoolTerminalDesk,terminals/terminaldesk01.nif,42x40x37,cut,,vanilla (need BSA)
+0602E00E,ACTI,aaaWFPARallyFlag,wastelandforts/settle/wfrallyflag.nif,292x98x816,exclude,flat/wall-mounted,
+0602E010,ACTI,aaaWFPAFieldAutodoc,wastelandforts/settle/wffieldautodoc.nif,104x120x137,cut,,convert STATIC -> ANIMSTATIC
+0602E012,ACTI,aaaWFPAAmmoBench,wastelandforts/settle/wfammobench.nif,120x72x148,cut,,convert STATIC -> ANIMSTATIC
+0602E014,ACTI,aaaWFPARadScrubber,wastelandforts/settle/wfradscrubber.nif,114x154x71,cut,,convert STATIC -> ANIMSTATIC
+0602E016,ACTI,aaaWFPAWarTable,wastelandforts/settle/wfwartable.nif,222x222x65,cut,,convert STATIC -> ANIMSTATIC
+0602E018,ACTI,aaaWFPAHooverGenerator,wastelandforts/settle/wfhoovergenerator.nif,1314x1094x933,cut,,convert STATIC -> ANIMSTATIC
+060019B1,ACTI,aaaCampfireCrafting03,clutter/camps/campfire03.nif,139x145x53,cut,,vanilla (need BSA)
+060010D7,ACTI,aaaWaterWell,rts/aaawaterwellscol01.nif,118x78x125,cut,,convert STATIC -> ANIMSTATIC
+060019B6,ACTI,aaaMaizePickable,landscape/plants/maize_healthy01.nif,0x0x0,exclude,flat/wall-mounted,
+060010CF,STAT,aaaWoodenWall,skykappa/rts/woodenwall/skwoodenwall.nif,54x399x426,exclude,already obstacle,
+060010D1,STAT,aaaWoodenWallEnd,skykappa/rts/woodenwall/skwoodenwallend.nif,54x440x429,exclude,already obstacle,
+060010D3,STAT,aaaJunkWall,rts/rcfencelink01yyy.nif,220x41x220,exclude,already obstacle,
+060010DD,ACTI,aaaWatchtower,rots/skwatchtower.nif,264x264x807,exclude,enterable building,
+06011797,ACTI,aaaSandbagbunkerroundtower,dlc04/architecture/military/dlc04sandbagbunkerroundtower.nif,476x453x571,exclude,enterable building,
+0600FD30,ACTI,aaaRadioTower,architecture/wasteland/radiotower02.nif,696x696x2485,exclude,enterable building,
+0600F19B,STAT,aaaWall01,rts/caslormwallxxx.nif,50x272x266,exclude,already obstacle,
+0600F19C,STAT,aaaWall02,rts/neormwallonly01axxx.nif,256x95x256,exclude,already obstacle,
+0600F19D,STAT,aaaWall03,rts/nvgs_gs_wallonlyxxx.nif,260x36x256,exclude,already obstacle,
+0600F19E,STAT,aaaWall04,rts/nvgswallonlyxxx.nif,260x36x256,exclude,already obstacle,
+0600F19F,STAT,aaaWall05,rts/offrmwallonly01axxx.nif,42x260x256,exclude,already obstacle,
+060211C8,CONT,aaaWFPlanMakerBox,clutter/enclaveencampment/enclavecrate01.nif,47x108x33,cut,,vanilla (need BSA)
+060211C9,CONT,aaaWFPlanBreakerBox,clutter/enclaveencampment/enclavecrate01.nif,47x108x33,cut,,vanilla (need BSA)
+0600EEB7,IDLM,aaaWaterDrink,,0x0x0,exclude,type IDLM,
+0600EEBD,IDLM,aaaMiddleFinger,,0x0x0,exclude,type IDLM,
+0600888A,IDLM,aaaGrindingWheel,,0x0x0,exclude,type IDLM,
+0600EEBA,IDLM,aaaPushUps,,0x0x0,exclude,type IDLM,

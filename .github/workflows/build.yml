@@ -1,0 +1,57 @@
+name: Build NavCutRefresh
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  # xNVSE commit the plugin was written and checked against
+  XNVSE_REF: dfb7928077fd86e6498cb90af690547d1dd70de6
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Check out plugin
+        uses: actions/checkout@v4
+
+      - name: Check out xNVSE SDK
+        uses: actions/checkout@v4
+        with:
+          repository: xNVSE/NVSE
+          ref: ${{ env.XNVSE_REF }}
+          path: xnvse
+
+      - name: Add msbuild to PATH
+        uses: microsoft/setup-msbuild@v2
+
+      - name: Put plugin source into the example project
+        shell: pwsh
+        run: |
+          Copy-Item src\main.cpp xnvse\nvse_plugin_example\main.cpp -Force
+          (Get-Content xnvse\nvse_plugin_example\exports.def) -replace 'LIBRARY\s+"nvse_plugin_example"', 'LIBRARY "NavCutRefresh"' |
+            Set-Content xnvse\nvse_plugin_example\exports.def
+
+      - name: Build Release | Win32
+        run: >
+          msbuild /m xnvse\nvse_plugin_example\nvse_plugin_example.sln
+          /p:Configuration=Release /p:Platform=Win32
+          /p:PlatformToolset=v143 /p:PostBuildEventUseInBuild=false
+
+      - name: Package
+        shell: pwsh
+        run: |
+          $out = "xnvse\nvse_plugin_example\Release"
+          Copy-Item "$out\nvse_plugin_example.dll" package\NVSE\Plugins\NavCutRefresh.dll
+          Copy-Item "$out\nvse_plugin_example.pdb" package\NVSE\Plugins\NavCutRefresh.pdb -ErrorAction SilentlyContinue
+          Get-ChildItem -Recurse package | Select-Object FullName, Length
+
+      - name: Upload
+        uses: actions/upload-artifact@v4
+        with:
+          name: NavCutRefresh
+          path: package/
