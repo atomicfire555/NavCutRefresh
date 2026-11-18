@@ -33,14 +33,24 @@ jobs:
         shell: pwsh
         run: |
           Copy-Item src\main.cpp xnvse\nvse_plugin_example\main.cpp -Force
-          (Get-Content xnvse\nvse_plugin_example\exports.def) -replace 'LIBRARY\s+"nvse_plugin_example"', 'LIBRARY "NavCutRefresh"' |
-            Set-Content xnvse\nvse_plugin_example\exports.def
 
       - name: Build Release | Win32
         run: >
           msbuild /m xnvse\nvse_plugin_example\nvse_plugin_example.sln
           /p:Configuration=Release /p:Platform=Win32
           /p:PlatformToolset=v143 /p:PostBuildEventUseInBuild=false
+
+      - name: Verify DLL (32-bit, exports NVSEPlugin_Query / NVSEPlugin_Load)
+        shell: pwsh
+        run: |
+          $vs = & "${env:ProgramFiles(x86)}\Microsoft Visual Studio\Installer\vswhere.exe" -latest -property installationPath
+          $dumpbin = Get-ChildItem "$vs\VC\Tools\MSVC" -Recurse -Filter dumpbin.exe | Where-Object FullName -like '*HostX64\x86*' | Select-Object -First 1
+          $dll = "xnvse\nvse_plugin_example\Release\nvse_plugin_example.dll"
+          $hdr = & $dumpbin.FullName /headers $dll | Out-String
+          $exp = & $dumpbin.FullName /exports $dll | Out-String
+          Write-Output ($exp -split "`n" | Select-String "NVSEPlugin")
+          if ($hdr -notmatch '14C machine \(x86\)') { throw "DLL is not 32-bit x86" }
+          if ($exp -notmatch 'NVSEPlugin_Query' -or $exp -notmatch 'NVSEPlugin_Load') { throw "missing NVSE plugin exports" }
 
       - name: Package
         shell: pwsh
